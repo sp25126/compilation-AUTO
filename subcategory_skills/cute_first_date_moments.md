@@ -85,13 +85,13 @@ To guarantee 100% fluid, buttery-smooth playback with zero dropped frames:
 
 ## 6. 5-Rank Benchmark Breakdown Table
 
-| Rank | Level | Story Arc | Cause / Awkward Spark | Payoff / Reaction |
-| :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **The Handshake Hug Collision** | Guy goes for a handshake, girl goes for a hug; hands get tangled in middle. | Both freeze, laugh hysterically, and restart with a proper warm hug. |
-| **4** | Level 2 | **The Slipping Straw Sneak** | Girl takes a sip of bubble tea; straw slips and bops her nose. | Date catches it, chuckles warmly, and hands her a napkin; instant chemistry. |
-| **3** | Level 3 | **The Accidental Spill Rescue** | Guy knocks water glass over menu with elbow due to nervous hand gestures. | Girl grabs napkins without hesitating, cleans it together while joking about his nerves. |
-| **2** | Level 4 | **The Blunt Freudian Compliment** | Guy tries to say "You look beautiful" and "You have great eyes" at the same time, saying "You look greatful". | Girl blushes bright red, breaks into breathless laughter, and touches his arm. |
-| **1** | Level 5 | **The Spontaneous Umbrella Share** | Sudden rainstorm hits outdoor dinner; date grabs coat to shelter both, pulling them face-to-face inches apart. | Eye contact locks, nervous smiles turn into a sweet first kiss under the coat. |
+| Rank | Level | Story Arc | Cause / Awkward Spark | Payoff / Reaction | Source Video ID / File |
+| :---: | :---: | :--- | :--- | :--- | :--- |
+| **5** | Level 1 | **Accidental Outfit Twinning** | Couple arrives wearing identical black jumpers and green parkas; date bursts out laughing in disbelief. | Both compare sleeves side-by-side, totally breaking the ice with uncontrollable laughter. | `First Dates` / `rank_5.mp4` (225 frames / 7.5s) |
+| **4** | Level 2 | **Giant Strawberry Sip Blunder** | Date tries to take an elegant sip from huge cocktail garnished with a giant strawberry; fruit slips and bumps her nose. | Both burst into giggles, date jokes about the fruit attack, creating instant warm chemistry. | `First Dates` / `rank_4.mp4` (225 frames / 7.5s) |
+| **3** | Level 3 | **Blunt Eye Contact & Heart-Melt Compliment** | Guy looks straight into her eyes and confesses with total honesty: "You look stunning tonight." | Girl blushes bright red, melts into the sweetest bashful smile, touching her cheek in pure joy. | `Love on the Spectrum` / `rank_3.mp4` (240 frames / 8.0s) |
+| **2** | Level 4 | **Spontaneous Harbour Piano Dance** | Couple hears a live street pianist playing classical romantic chords along the harbour and steps into the open. | Guy extends his hand, pulls her into an impromptu slow dance while smiling warmly under the sun. | `Romantic Moments` / `rank_2.mp4` (240 frames / 8.0s) |
+| **1** | Level 5 | **Red Rose & Sidewalk First Kiss** | Date reveals a fresh red rose, hands it to her outside the venue, leaning in close under the streetlights. | She holds the rose to her chest as they share a tender, authentic first kiss, cutting to their beaming reaction. | `First Dates` / `rank_1.mp4` (240 frames / 8.0s) |
 
 ---
 

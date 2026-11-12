@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Cute First Date Moments",
+  "versionTag": "(Awkward Love Edition)",
+  "globalAudioPath": "public/audio/stems/cute_first_date_moments_music_bed.mp3",
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/cute_first_date_moments/rank_5.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 1: Showed up in the exact same outfit and broke the ice with pure laughter"
+    },
+    {
+      "videoPath": "clips/cute_first_date_moments/rank_4.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 2: The giant strawberry garnish slipped and turned dinner into uncontrollable giggles"
+    },
+    {
+      "videoPath": "clips/cute_first_date_moments/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: He told her she was stunning and she melted into the sweetest blushing smile"
+    },
+    {
+      "videoPath": "clips/cute_first_date_moments/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Heard a street pianist by the harbour and asked her for an impromptu slow dance"
+    },
+    {
+      "videoPath": "clips/cute_first_date_moments/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Gifted her a red rose and sealed the night with the sweetest first kiss"
+    }
+  ]
+}

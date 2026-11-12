@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Forklift Domino Disasters",
+  "versionTag": "(Warehouse Nightmares)",
+  "globalAudioPath": "public/audio/stems/forklift_domino_disasters_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/forklift_domino_disasters/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Retail store shelf domino tumble across aisle",
+      "punchlineText": "SHELF TUMBLE",
+      "impactFrameOffset": 105
+    },
+    {
+      "videoPath": "clips/forklift_domino_disasters/rank_4.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 2: Forklift clips corner upright triggering multi-bay collapse",
+      "punchlineText": "CORNER BUMP",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/forklift_domino_disasters/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Pallet stacker bumps column burying aisle under boxes",
+      "punchlineText": "AISLE BURIED",
+      "impactFrameOffset": 60
+    },
+    {
+      "videoPath": "clips/forklift_domino_disasters/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: High-bay reach truck triggers 40-foot domino avalanche",
+      "punchlineText": "40FT AVALANCHE",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/forklift_domino_disasters/rank_1.mp4",
+      "durationInFrames": 255,
+      "subtitleText": "Level 5: Minor nudge triggers cataclysmic $5M cheese warehouse collapse",
+      "punchlineText": "$5M COLLAPSE",
+      "impactFrameOffset": 65
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}

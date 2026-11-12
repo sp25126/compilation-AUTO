@@ -16,19 +16,19 @@ frame_rate: 30.0_cfr
 
 # Sub-Category Skill: `forklift_domino_disasters` ("FORKLIFT DOMINO DISASTERS")
 
-> **MANDATORY FOR AI PIPELINE:** Subtitles are strictly disabled (`showSubtitles: false`). Every clip must feature high-stakes warehouse industrial mishaps (forklift nudges, overloaded shelving, domino rack collapses). Natural sound effects (metal groans, crashing boxes, forklift horns) are prioritized. Re-encoded with `-r 30 -g 15 -pix_fmt yuv420p` and rendered via Remotion `<OffthreadVideo>` for 100% stutter-free playback.
+> **MANDATORY FOR AI PIPELINE:** Subtitles are strictly disabled (`showSubtitles: false`). Every clip features high-stakes warehouse industrial mishaps (forklift nudges, overloaded shelving, domino rack collapses). Natural sound effects (metal groans, crashing boxes, forklift horns) are prioritized and layered with authentic crash foley. Re-encoded with `-r 30 -g 15 -pix_fmt yuv420p` and rendered via Remotion `<OffthreadVideo>` for 100% stutter-free playback.
 
 ---
 
 ## 1. Core Narrative & Edit Philosophy
 A **"FORKLIFT DOMINO DISASTERS"** Short leverages tension and irreversible catastrophic physics:
-1. **The Precarious Setup (`0` to `T_cause`, natural audio):** CCTV or coworker phone camera views high-stacked industrial warehouse racks towering 30 feet in the air. Forklift hums, warehouse beeps, and hydraulic hisses build the workplace atmosphere.
+1. **The Precarious Setup (`0` to `T_cause`, natural audio):** CCTV views towering industrial warehouse racks stacked 30+ feet high. Forklift hums, warehouse beeps, and hydraulic hisses build the workplace atmosphere.
 2. **The Minor Nudge / Point of Failure Climax (`T_cause`):** A seemingly tiny mistake triggers structural collapse:
    - Forklift rear corner clips a rack leg while turning.
    - Heavy pallet placed 2 inches too far to the left.
    - Metal upright beam buckles with an ominous metallic groan.
-   - Top shelf tilts 5 degrees sideways.
-3. **The Catastrophic Domino Payoff (`T_payoff`):** Shelf 1 crashes into Shelf 2, which triggers Shelf 3; hundreds of pallets of cheese, paint, wine, or boxes collapse in a 10-second continuous cascading avalanche. Forklift driver sits safely inside roll cage in stunned disbelief.
+   - Top shelf tilts sideways.
+3. **The Catastrophic Domino Payoff (`T_payoff`):** Shelf 1 crashes into Shelf 2, which triggers Shelf 3; hundreds of pallets of goods collapse in a continuous cascading avalanche. Forklift driver sits safely inside roll cage in stunned disbelief.
 
 ---
 
@@ -39,11 +39,11 @@ A **"FORKLIFT DOMINO DISASTERS"** Short leverages tension and irreversible catas
   - Line 2: `Forklift Domino Disasters` (`#FF2D55`)
   - Line 3: `(Warehouse Nightmares)` (`#00D2FF`)
 - **Progression Color Ladder:**
-  - Rank 5 [Level 1]: `#FF2D55` (Small retail shelf collapse)
-  - Rank 4 [Level 2]: `#00D2FF` (Brewery beer keg domino tumble)
-  - Rank 3 [Level 3]: `#FFEB3B` (Beverage pallet warehouse collapse)
-  - Rank 2 [Level 4]: `#FFFFFF` (Double-aisle distribution center wipeout)
-  - Rank 1 [Level 5]: `#FFFFFF` (Mega warehouse $5M cheese wheel / wine avalanche)
+  - Rank 5 [Level 1]: `#FF2D55` (Retail store shelf domino tumble)
+  - Rank 4 [Level 2]: `#00D2FF` (Warehouse multi-bay racking collapse)
+  - Rank 3 [Level 3]: `#FFEB3B` (Distribution corridor dual-rack avalanche)
+  - Rank 2 [Level 4]: `#FFFFFF` (High-bay reach truck 40-foot domino collapse)
+  - Rank 1 [Level 5]: `#FFFFFF` (Mega warehouse $5M cheese wheel avalanche)
 - **Subtitles:** Strictly disabled (`showSubtitles: false`) to let echoing warehouse crashes and metal groans punch through.
 - **Outro:** 75-frame Earshot sonic brand outro (`public/audio/earshot_sonic_brand.mp3`).
 
@@ -53,7 +53,7 @@ A **"FORKLIFT DOMINO DISASTERS"** Short leverages tension and irreversible catas
 - **Compositor Engine:** Remotion `<OffthreadVideo>` in `src/remotion/MrPurifiedWaterShort.tsx`.
 - **Pre-Processing Command:** Strict 30fps CFR re-encode with dense `-g 15` keyframe interval to eliminate any seek jitter:
   ```bash
-  ffmpeg -y -i raw_input.mp4 -vf "setpts=PTS-STARTPTS,fps=30,scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2" -c:v libx264 -pix_fmt yuv420p -r 30 -g 15 -keyint_min 15 -sc_threshold 0 -c:a aac -ar 48000 -b:a 320k normalized_clip.mp4
+  ffmpeg -y -i raw_input.mp4 -vf "setpts=PTS-STARTPTS,fps=30,scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2" -c:v libx264 -pix_fmt yuv420p -r 30 -g 15 -keyint_min 15 -sc_threshold 0 -c:a aac -ar 48000 -b:a 192k normalized_clip.mp4
   ```
 
 ---
@@ -83,13 +83,13 @@ A **"FORKLIFT DOMINO DISASTERS"** Short leverages tension and irreversible catas
 
 ## 6. 5-Rank Benchmark Breakdown Table
 
-| Rank | Level | Story Arc | The Initial Nudge | The Domino Chain Reaction |
-| :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **Home Improvement Timber Tumble** | Forklift lifts long lumber boards; board snags adjacent metal rack leg. | Rack upright pops out; 40 bundles of 2x4s cascade across aisle in loud dust cloud. |
-| **4** | Level 2 | **The Paint Warehouse Rainbow** | Forklift tines pierce bottom corner of stacked paint cans on top shelf. | Cans puncture, slide off pallet, raining 500 gallons of white and blue paint onto the floor. |
-| **3** | Level 3 | **Beverage Keg Brewery Cascade** | Forklift operator turns in tight brewery aisle; counterweight bumps metal shelving. | Three rows of stacked aluminum beer kegs roll off like bowling balls across the brew floor. |
-| **2** | Level 4 | **Distribution Center Double Aisle** | Forklift gently touches rack upright while backing up; beam shears at weld. | Right shelf collapses into left shelf, creating a 200-foot tunnel collapse burying the forklift roll cage. |
-| **1** | Level 5 | **The $10M Mega Warehouse Avalanche** | Driver in massive 40-foot high-bay facility taps central support pillar. | Whole warehouse aisle folds like an accordion, triggering 12 consecutive racks to collapse in a 30-second continuous tidal wave of goods. |
+| Rank | Level | File Path | Duration | Story Arc | The Initial Nudge | The Domino Chain Reaction |
+| :---: | :---: | :--- | :---: | :--- | :--- | :--- |
+| **5** | Level 1 | `clips/forklift_domino_disasters/rank_5.mp4` | 8.0s (240f) | **Retail Store Domino Tumble** | Worker reaches up to adjust item on top shelf. | Upright snaps; 5 consecutive shelving units collapse in a cascading wave across the aisle as the worker dives for cover. |
+| **4** | Level 2 | `clips/forklift_domino_disasters/rank_4.mp4` | 8.0s (240f) | **Warehouse Multi-Bay Racking Collapse** | Forklift turns and counterweight bumps corner upright beam. | Upright shears; multi-bay heavy industrial shelving collapses in a chain reaction, exploding in dust and debris across the warehouse floor. |
+| **3** | Level 3 | `clips/forklift_domino_disasters/rank_3.mp4` | 8.0s (240f) | **Corridor Dual-Rack Avalanche** | Electric pallet stacker turns down narrow corridor, bumping central column. | Right shelf buckles into left shelf, completely burying the corridor and machine under thousands of boxes. |
+| **2** | Level 4 | `clips/forklift_domino_disasters/rank_2.mp4` | 8.0s (240f) | **High-Bay Reach Truck 40-Foot Domino** | High-bay reach truck touches rack upright at far end of aisle. | 40-foot heavy industrial shelving buckles row-by-row in an escalating domino cascade towards camera, engulfing the warehouse bay. |
+| **1** | Level 5 | `clips/forklift_domino_disasters/rank_1.mp4` | 8.5s (255f) | **$5M Mega-Warehouse Cheese Catastrophe** | Forklift taps rack leg in massive 40-foot high-bay facility. | Whole warehouse aisle folds left-to-right, bringing down consecutive aisles in a continuous $5M avalanche, burying forklift roll cage. |
 
 ---
 
@@ -103,13 +103,13 @@ A **"FORKLIFT DOMINO DISASTERS"** Short leverages tension and irreversible catas
 ---
 
 ## 8. YouTube Shorts SEO & Upload Package
-- **Hook Title:** `Ranking Worst Forklift Domino Disasters 😱📦 #shorts #workplace #fails`
+- **Hook Title:** `Worst Forklift Domino Disasters 😱📦 #shorts #workplace #fails`
 - **Description:**
   ```text
   Ranking the most expensive and catastrophic forklift domino collapses in history! Someone definitely got fired after Level 5! 📦💥
 
   All footages used in this video are not mine; full credit goes to the respective owners.
 
-  #shorts #viral #forklift #warehouse #fail #expensive #accident #instantregret #thatlookedexpensive
+  #shorts #viral #forklift #warehouse #fail #expensive #accident #instantregret #thatlookedexpensive #workplace #catastrophe
   ```
-- **Optimal Upload Window:** 17:00 – 19:30 IST / 08:30 – 11:00 EST (Weekdays during work lunch / commute hours).
+- **Optimal Upload Window:** 17:30 – 19:30 IST / 08:00 – 10:00 EST (Weekdays during work lunch / commute hours).
