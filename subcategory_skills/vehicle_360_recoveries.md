@@ -83,13 +83,13 @@ A **"VEHICLE 360 RECOVERIES"** Short hooks viewers with pure adrenaline, physics
 
 ## 6. 5-Rank Benchmark Breakdown Table
 
-| Rank | Level | Story Arc | Hydroplane / Spin Climax | Recovery / Payoff |
-| :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **Roundabout Slick Spin** | Sedan hits puddle in European roundabout; rear kicks out into a 360 pirouette. | Car spins complete 360 inside roundabout lane, lines up exit, drives off smoothly. |
-| **4** | Level 2 | **Winter Highway Black Ice 360** | SUV on snow-covered highway loses traction at 55 mph; rotates full circle. | Misses guardrail by 6 inches, catches forward traction, keeps cruising straight. |
-| **3** | Level 3 | **Rally Hairpin Gravel 360** | Rally car enters loose gravel hairpin too hot; spins completely backwards. | Driver holds throttle pinned, completes 360 rotation around apex tree, accelerates down stage without losing time. |
-| **2** | Level 4 | **The Semi-Truck Sandwich 360** | Sports car caught between two 18-wheelers on wet interstate spins 360 degrees. | Squeezes through the narrow 15-foot gap between both trailers while spinning, straightens out in front of them undamaged. |
-| **1** | Level 5 | **Nürburgring 140mph 360 Save** | GT3 Porsche hits oil slick at 140 mph on the green hell; rotates 360 degrees sideways across curb. | Driver performs telepathic counter-steer, wheels skim grass without rolling, snaps straight and sets fastest lap. |
+| Rank | Level | Clip Duration | Story Arc | Hydroplane / Spin Climax | Recovery / Payoff |
+| :---: | :---: | :---: | :--- | :--- | :--- |
+| **5** | Level 1 | 8.00s (240f) | **POV BMW M4 Roundabout 360** | Driver cranks steering wheel in open lot/roundabout; M4 whips into full 360 pirouette. | Driver counter-steers with lightning handwork, straightens out instantly, powers forward. |
+| **4** | Level 2 | 7.00s (210f) | **Interstate Sedan 360 Traffic Save** | White sedan loses traction at 65mph directly in front of dashcam on interstate. | Car rotates 360 across multiple lanes without touching a car, catches grip, and continues cruising. |
+| **3** | Level 3 | 7.50s (225f) | **WRC Rally Vineyard Hairpin 360** | Rally car comes screaming down hill, overshoots tight hairpin, and breaks into a 360 spin. | Tires generate massive billowing white smoke; driver snaps 360 on road apex, co-driver gives thumbs up as car roars off. |
+| **2** | Level 4 | 7.50s (225f) | **The 77mph Semi-Truck Sandwich 360** | Vehicle hydroplanes on wet highway at 77mph right alongside an 18-wheel Prime semi-truck trailer. | Squeezes inches from the massive semi trailer while spinning full 360 backwards, snaps forward, continues unscathed. |
+| **1** | Level 5 | 7.00s (210f) | **Max Verstappen 120mph F1 360 & Win** | World champion Max Verstappen spins 360 at 120+ mph in the Hungarian Grand Prix. | Locks opposite steering, tires scream in smoke, snaps straight without losing position, and goes on to win the Grand Prix! |
 
 ---
 

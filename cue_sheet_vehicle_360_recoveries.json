@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Vehicle 360 Recoveries",
+  "versionTag": "(God Level Driving)",
+  "globalAudioPath": "public/audio/stems/vehicle_360_recoveries_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/vehicle_360_recoveries/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: POV BMW M4 roundabout 360 drift pirouette into seamless exit",
+      "punchlineText": "DRIFT SAVE",
+      "impactFrameOffset": 105
+    },
+    {
+      "videoPath": "clips/vehicle_360_recoveries/rank_4.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 2: Highway sedan 360 spin across lanes without a single scratch",
+      "punchlineText": "HIGHWAY SPIN",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/vehicle_360_recoveries/rank_3.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 3: WRC rally car 360 smoke hairpin save on downhill bend",
+      "punchlineText": "RALLY SAVE",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/vehicle_360_recoveries/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: 77mph hydroplane 360 inches from an 18-wheel semi trailer",
+      "punchlineText": "SEMI DODGE",
+      "impactFrameOffset": 95
+    },
+    {
+      "videoPath": "clips/vehicle_360_recoveries/rank_1.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 5: Max Verstappen 120mph 360 spin and recovery to win Grand Prix",
+      "punchlineText": "F1 CHAMPION",
+      "impactFrameOffset": 60
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
