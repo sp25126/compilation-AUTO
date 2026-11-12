@@ -7,37 +7,39 @@
     {
       "videoPath": "clips/rogue_waves/rank_5.mp4",
       "durationInFrames": 263,
-      "subtitleText": "Level 1: Posing for a cute seawall video right before the ocean ambushed her 🌊💀",
+      "subtitleText": "Level 1: Posing for a cute seawall video right before the ocean ambushed her \ud83c\udf0a\ud83d\udc80",
       "punchlineText": "SNEAK ATTACK",
       "impactFrameOffset": 93
     },
     {
       "videoPath": "clips/rogue_waves/rank_4.mp4",
       "durationInFrames": 268,
-      "subtitleText": "Level 2: Thought watching from the high rocks was safe until the ocean erupted 💀",
+      "subtitleText": "Level 2: Thought watching from the high rocks was safe until the ocean erupted \ud83d\udc80",
       "punchlineText": "ROCK AMBUSH",
       "impactFrameOffset": 215
     },
     {
       "videoPath": "clips/rogue_waves/rank_3.mp4",
       "durationInFrames": 263,
-      "subtitleText": "Level 3: Iceland's black sand beach turned into a bowling alley for tourists 🌊",
+      "subtitleText": "Level 3: Iceland's black sand beach turned into a bowling alley for tourists \ud83c\udf0a",
       "punchlineText": "ICELAND SWEEP",
       "impactFrameOffset": 81
     },
     {
       "videoPath": "clips/rogue_waves/rank_2.mp4",
       "durationInFrames": 262,
-      "subtitleText": "Level 4: Open-ocean rogue wave rolled in and knocked the whole yacht sideways ⛵",
+      "subtitleText": "Level 4: Open-ocean rogue wave rolled in and knocked the whole yacht sideways \u26f5",
       "punchlineText": "YACHT KNOCKDOWN",
       "impactFrameOffset": 84
     },
     {
       "videoPath": "clips/rogue_waves/rank_1.mp4",
       "durationInFrames": 268,
-      "subtitleText": "Level 5: Warship plunged bow-first into a towering wall of pure North Atlantic fury 💀",
+      "subtitleText": "Level 5: Warship plunged bow-first into a towering wall of pure North Atlantic fury \ud83d\udc80",
       "punchlineText": "ABYSSAL IMPACT",
       "impactFrameOffset": 79
     }
-  ]
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
 }

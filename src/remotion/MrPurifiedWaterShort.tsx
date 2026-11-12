@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   AbsoluteFill,
-  Video,
+  OffthreadVideo,
   Audio,
   Sequence,
   useCurrentFrame,
@@ -280,7 +280,7 @@ export const MrPurifiedWaterShort: React.FC<MrPurifiedWaterShortProps> = ({
                     }}
                   >
                     {!isFrozen ? (
-                      <Video
+                      <OffthreadVideo
                         src={videoSrc}
                         volume={(f) => {
                           if (voSrc && f < voDurationFrames) return 0.35;

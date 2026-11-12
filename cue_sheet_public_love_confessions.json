@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Boldest",
+  "subjectHeader": "Public Love Confessions",
+  "versionTag": "(Zero Fear Edition)",
+  "globalAudioPath": "public/audio/stems/public_love_confessions_music_bed.mp3",
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "public/clips/public_love_confessions/clip_5.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 1: Royal Herald Delivery"
+    },
+    {
+      "videoPath": "public/clips/public_love_confessions/clip_4.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 2: The Front Steps Serenade"
+    },
+    {
+      "videoPath": "public/clips/public_love_confessions/clip_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Classroom Guitar Surprise"
+    },
+    {
+      "videoPath": "public/clips/public_love_confessions/clip_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Umbrella Flash Mob"
+    },
+    {
+      "videoPath": "public/clips/public_love_confessions/clip_1.mp4",
+      "durationInFrames": 224,
+      "subtitleText": "Level 5: 2,000 Student Arena Proposal"
+    }
+  ]
+}

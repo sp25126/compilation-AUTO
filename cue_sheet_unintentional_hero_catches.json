@@ -1,0 +1,37 @@
+{
+  "titleHeader": "Ranking Insane",
+  "subjectHeader": "Dad Reflex Catches",
+  "versionTag": "(Superhero Reflexes)",
+  "subCategoryId": "unintentional_hero_catches",
+  "subCategoryName": "DAD REFLEX CATCHES",
+  "globalAudioPath": "public/audio/stems/unintentional_hero_catches_music_bed.mp3",
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "id": "unintentional_hero_catches_5",
+      "videoPath": "public/clips/unintentional_hero_catches/clip_5.mp4",
+      "durationInFrames": 180
+    },
+    {
+      "id": "unintentional_hero_catches_4",
+      "videoPath": "public/clips/unintentional_hero_catches/clip_4.mp4",
+      "durationInFrames": 179
+    },
+    {
+      "id": "unintentional_hero_catches_3",
+      "videoPath": "public/clips/unintentional_hero_catches/clip_3.mp4",
+      "durationInFrames": 180
+    },
+    {
+      "id": "unintentional_hero_catches_2",
+      "videoPath": "public/clips/unintentional_hero_catches/clip_2.mp4",
+      "durationInFrames": 225
+    },
+    {
+      "id": "unintentional_hero_catches_1",
+      "videoPath": "public/clips/unintentional_hero_catches/clip_1.mp4",
+      "durationInFrames": 255
+    }
+  ]
+}
