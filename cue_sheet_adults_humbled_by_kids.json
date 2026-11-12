@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Adults Humbled By Kids",
+  "versionTag": "(Schooled Edition)",
+  "globalAudioPath": "public/audio/stems/adults_humbled_by_kids_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/adults_humbled_by_kids/rank_5.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 1: Dad flexed a backwards shot until his kid did it effortlessly 💀",
+      "punchlineText": "-10,000 AURA",
+      "impactFrameOffset": 162
+    },
+    {
+      "videoPath": "clips/adults_humbled_by_kids/rank_4.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 2: Bro tried to block his son and got posterized into the hoop 😭",
+      "punchlineText": "-50,000 AURA",
+      "impactFrameOffset": 156
+    },
+    {
+      "videoPath": "clips/adults_humbled_by_kids/rank_3.mp4",
+      "durationInFrames": 242,
+      "subtitleText": "Level 3: Grown man tried to bully a yellow belt and tapped out 💀",
+      "punchlineText": "-100,000 AURA",
+      "impactFrameOffset": 200
+    },
+    {
+      "videoPath": "clips/adults_humbled_by_kids/rank_2.mp4",
+      "durationInFrames": 255,
+      "subtitleText": "Level 4: Kid slipped every punch and schooled him in front of the crowd 🥊",
+      "punchlineText": "-500,000 AURA",
+      "impactFrameOffset": 138
+    },
+    {
+      "videoPath": "clips/adults_humbled_by_kids/rank_1.mp4",
+      "durationInFrames": 264,
+      "subtitleText": "Level 5: Little girl ended his whole career in front of the boys 😭⚽",
+      "punchlineText": "-1,000,000 AURA",
+      "impactFrameOffset": 120
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Gym & Treadmill Fails",
+  "versionTag": "(Max Speed Edition)",
+  "globalAudioPath": "public/audio/stems/treadmill_slingshots_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/treadmill_slingshots/rank_5.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 1: Casual gym interview photobombed by a treadmill launch 💀",
+      "punchlineText": "EXITED THE CHAT",
+      "impactFrameOffset": 135
+    },
+    {
+      "videoPath": "clips/treadmill_slingshots/rank_4.mp4",
+      "durationInFrames": 186,
+      "subtitleText": "Level 2: Fell off the treadmill and smoothly hit pushups like nothing happened 😭",
+      "punchlineText": "10/10 RECOVERY",
+      "impactFrameOffset": 45
+    },
+    {
+      "videoPath": "clips/treadmill_slingshots/rank_3.mp4",
+      "durationInFrames": 279,
+      "subtitleText": "Level 3: Ego bench press turned into a full gym rescue mission 🏋️",
+      "punchlineText": "SPOTTER SAVED HIM",
+      "impactFrameOffset": 155
+    },
+    {
+      "videoPath": "clips/treadmill_slingshots/rank_2.mp4",
+      "durationInFrames": 186,
+      "subtitleText": "Level 4: Dumbbell press on a moving treadmill took out the whole room 💀",
+      "punchlineText": "TOTAL WIPEOUT",
+      "impactFrameOffset": 84
+    },
+    {
+      "videoPath": "clips/treadmill_slingshots/rank_1.mp4",
+      "durationInFrames": 245,
+      "subtitleText": "Level 5: Max speed treadmill turned into a human slingshot 🚀",
+      "punchlineText": "LAUNCHED TO ORBIT",
+      "impactFrameOffset": 195
+    }
+  ]
+}

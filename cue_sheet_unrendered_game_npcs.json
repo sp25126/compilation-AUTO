@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Real-Life NPC Glitches",
+  "versionTag": "(Matrix Broken)",
+  "globalAudioPath": "public/audio/stems/unrendered_game_npcs_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/unrendered_game_npcs/rank_5.mp4",
+      "durationInFrames": 178,
+      "subtitleText": "Level 1: Bro spotted a side-quest NPC glitching in 4K 💀",
+      "punchlineText": "IDLE_ANIMATION.EXE",
+      "impactFrameOffset": 60
+    },
+    {
+      "videoPath": "clips/unrendered_game_npcs/rank_4.mp4",
+      "durationInFrames": 255,
+      "subtitleText": "Level 2: When everyone else has an emote except you 😭",
+      "punchlineText": "CONNECTION LOST",
+      "impactFrameOffset": 150
+    },
+    {
+      "videoPath": "clips/unrendered_game_npcs/rank_3.mp4",
+      "durationInFrames": 254,
+      "subtitleText": "Level 3: The whole server got stuck in a pathfinding loop 🌀",
+      "punchlineText": "NAVMESH ERROR",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/unrendered_game_npcs/rank_2.mp4",
+      "durationInFrames": 239,
+      "subtitleText": "Level 4: Cyclist NPC had collision detection turned off 💀",
+      "punchlineText": "PATHFINDING: 0%",
+      "impactFrameOffset": 100
+    },
+    {
+      "videoPath": "clips/unrendered_game_npcs/rank_1.mp4",
+      "durationInFrames": 256,
+      "subtitleText": "Level 5: Bro walked into a brick wall and tried to reload 😭",
+      "punchlineText": "MATRIX CRASHED",
+      "impactFrameOffset": 90
+    }
+  ]
+}

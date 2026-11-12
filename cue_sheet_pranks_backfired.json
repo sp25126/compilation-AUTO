@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Pranks Gone Wrong",
+  "versionTag": "(Wrong Target Edition)",
+  "globalAudioPath": "public/audio/stems/pranks_backfired_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/pranks_backfired/rank_5.mp4",
+      "durationInFrames": 230,
+      "subtitleText": "Level 1: Tried to pull his chair in class, flipped herself instead 😭",
+      "punchlineText": "INSTANT KARMA",
+      "impactFrameOffset": 150
+    },
+    {
+      "videoPath": "clips/pranks_backfired/rank_4.mp4",
+      "durationInFrames": 234,
+      "subtitleText": "Level 2: Scared his coworker and caught a phone straight to the dome 💀",
+      "punchlineText": "WRONG TARGET",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/pranks_backfired/rank_3.mp4",
+      "durationInFrames": 263,
+      "subtitleText": "Level 3: Sprayed a stranger in the store and immediately regretted it 😳",
+      "punchlineText": "HUMBLED QUICK",
+      "impactFrameOffset": 65
+    },
+    {
+      "videoPath": "clips/pranks_backfired/rank_2.mp4",
+      "durationInFrames": 253,
+      "subtitleText": "Level 4: Blasted an airhorn in his ear, didn't even flinch before the slap 💥",
+      "punchlineText": "ZERO MERCY",
+      "impactFrameOffset": 45
+    },
+    {
+      "videoPath": "clips/pranks_backfired/rank_1.mp4",
+      "durationInFrames": 262,
+      "subtitleText": "Level 5: Ran up on the wrong guy in the mall and ate a clean front kick 😭",
+      "punchlineText": "FINAL BOSS",
+      "impactFrameOffset": 110
+    }
+  ]
+}

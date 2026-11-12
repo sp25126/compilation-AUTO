@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking The Worst",
+  "subjectHeader": "-1,000,000 AURA MOMENTS",
+  "versionTag": "(Infinite Debt)",
+  "globalAudioPath": "public/audio/stems/one_million_aura_loss_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/one_million_aura_loss/rank_5.mp4",
+      "durationInFrames": 120,
+      "subtitleText": "Level 1: Bro had to dap up his own hand with a straight face 💀",
+      "punchlineText": "-10,000 AURA",
+      "impactFrameOffset": 45
+    },
+    {
+      "videoPath": "clips/one_million_aura_loss/rank_4.mp4",
+      "durationInFrames": 187,
+      "subtitleText": "Level 2: The highway swagger backfired into a rescue mission 😭",
+      "punchlineText": "-50,000 AURA",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/one_million_aura_loss/rank_3.mp4",
+      "durationInFrames": 177,
+      "subtitleText": "Level 3: Trying to impress the girls with a bench flip went wrong 😭",
+      "punchlineText": "-100,000 AURA",
+      "impactFrameOffset": 105
+    },
+    {
+      "videoPath": "clips/one_million_aura_loss/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Leaned for the trick shot, belly-flopped the pool table 💀",
+      "punchlineText": "-500,000 AURA",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/one_million_aura_loss/rank_1.mp4",
+      "durationInFrames": 300,
+      "subtitleText": "Level 5: 20-step stomach slide straight into the river 😭🌊",
+      "punchlineText": "-1,000,000 AURA",
+      "impactFrameOffset": 110
+    }
+  ]
+}

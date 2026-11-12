@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Overconfident People Humbled",
+  "versionTag": "(Ego Checked Edition)",
+  "subCategoryId": "overconfident_humbled",
+  "subCategoryName": "OVERCONFIDENT HUMBLED",
+  "globalAudioPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\audio\\stems\\karma_comedy_master.mp3",
+  "clips": [
+    {
+      "id": "overconfident_humbled_5",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\overconfident_humbled\\rank5_trimmed.mp4",
+      "durationInFrames": 205
+    },
+    {
+      "id": "overconfident_humbled_4",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\overconfident_humbled\\rank4_trimmed.mp4",
+      "durationInFrames": 166
+    },
+    {
+      "id": "overconfident_humbled_3",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\overconfident_humbled\\rank3_trimmed.mp4",
+      "durationInFrames": 241
+    },
+    {
+      "id": "overconfident_humbled_2",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\overconfident_humbled\\rank2_trimmed.mp4",
+      "durationInFrames": 234
+    },
+    {
+      "id": "overconfident_humbled_1",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\overconfident_humbled\\rank1_trimmed.mp4",
+      "durationInFrames": 219
+    }
+  ]
+}

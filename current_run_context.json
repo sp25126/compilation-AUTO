@@ -1,0 +1,20 @@
+{
+  "run_id": "run_20261110_200328",
+  "locked_at": "2026-11-10T14:33:28.623837+00:00",
+  "sub_category_id": "pets_being_dumb",
+  "sub_category_name": "Dogs Being Clumsy",
+  "strict_definition": "Must show real dogs miscalculating jumps, running into glass doors, or slipping across hardwood floors.",
+  "negative_filters": [
+    "human fails",
+    "podcast",
+    "gameplay",
+    "cgi",
+    "animation",
+    "review",
+    "interview",
+    "reaction",
+    "vlog"
+  ],
+  "audio_stem": "boing.mp3",
+  "punchline_text": "ZERO BRAINCELLS"
+}

@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Road Rage Instant Karma",
+  "versionTag": "(Dashcam Justice)",
+  "subCategoryId": "road_rage_justice",
+  "subCategoryName": "ROAD RAGE JUSTICE",
+  "globalAudioPath": "public/audio/stems/road_rage_justice_music_bed.mp3",
+  "clips": [
+    {
+      "id": "road_rage_justice_5",
+      "videoPath": "public/clips/road_rage_justice/rank5_unmarked_cop.mp4",
+      "durationInFrames": 284
+    },
+    {
+      "id": "road_rage_justice_4",
+      "videoPath": "public/clips/road_rage_justice/rank4_moto_cops.mp4",
+      "durationInFrames": 276
+    },
+    {
+      "id": "road_rage_justice_3",
+      "videoPath": "public/clips/road_rage_justice/rank3_spinout_barrier.mp4",
+      "durationInFrames": 278
+    },
+    {
+      "id": "road_rage_justice_2",
+      "videoPath": "public/clips/road_rage_justice/rank2_brake_check_crash.mp4",
+      "durationInFrames": 264
+    },
+    {
+      "id": "road_rage_justice_1",
+      "videoPath": "public/clips/road_rage_justice/rank1_suv_flips_ditch.mp4",
+      "durationInFrames": 282
+    }
+  ]
+}

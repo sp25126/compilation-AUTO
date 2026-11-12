@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Ignoring Warning Signs",
+  "versionTag": "(What Could Go Wrong)",
+  "subCategoryId": "defying_warning_signs",
+  "subCategoryName": "IGNORING WARNING SIGNS",
+  "globalAudioPath": "public/audio/stems/karma_comedy_master.mp3",
+  "clips": [
+    {
+      "id": "defying_warning_signs_5",
+      "videoPath": "public/clips/defying_warning_signs/rank5_wet_floor.mp4",
+      "durationInFrames": 218
+    },
+    {
+      "id": "defying_warning_signs_4",
+      "videoPath": "public/clips/defying_warning_signs/rank4_electric_fence.mp4",
+      "durationInFrames": 176
+    },
+    {
+      "id": "defying_warning_signs_3",
+      "videoPath": "public/clips/defying_warning_signs/rank3_wet_concrete.mp4",
+      "durationInFrames": 205
+    },
+    {
+      "id": "defying_warning_signs_2",
+      "videoPath": "public/clips/defying_warning_signs/rank2_electric_mat_bear.mp4",
+      "durationInFrames": 283
+    },
+    {
+      "id": "defying_warning_signs_1",
+      "videoPath": "public/clips/defying_warning_signs/rank1_thin_ice.mp4",
+      "durationInFrames": 266
+    }
+  ]
+}

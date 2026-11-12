@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking Scariest",
+  "subjectHeader": "Wildlife Close Calls",
+  "versionTag": "(Inches Away)",
+  "globalAudioPath": "public/audio/stems/wildlife_close_calls_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/wildlife_close_calls/rank_5.mp4",
+      "durationInFrames": 235,
+      "subtitleText": "Level 1: Black bear charged onto his porch and he used a bench as a shield 😳",
+      "punchlineText": "PORCH AMBUSH",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/wildlife_close_calls/rank_4.mp4",
+      "durationInFrames": 228,
+      "subtitleText": "Level 2: Great white snuck up behind him and literally grazed his head 🦈💀",
+      "punchlineText": "HEAD GRAZE",
+      "impactFrameOffset": 120
+    },
+    {
+      "videoPath": "clips/wildlife_close_calls/rank_3.mp4",
+      "durationInFrames": 279,
+      "subtitleText": "Level 3: Grizzly climbed 20 feet up his tree stand and stopped inches away 🐻",
+      "punchlineText": "TREE STAND",
+      "impactFrameOffset": 145
+    },
+    {
+      "videoPath": "clips/wildlife_close_calls/rank_2.mp4",
+      "durationInFrames": 254,
+      "subtitleText": "Level 4: Polar bear shoved its jaws right through the metal stairs ❄️😱",
+      "punchlineText": "THROUGH THE GRATE",
+      "impactFrameOffset": 110
+    },
+    {
+      "videoPath": "clips/wildlife_close_calls/rank_1.mp4",
+      "durationInFrames": 278,
+      "subtitleText": "Level 5: Great white smashed straight INSIDE the cage with a diver trapped 🦈🚨",
+      "punchlineText": "INSIDE THE CAGE",
+      "impactFrameOffset": 70
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# Secrets and sensitive env files
+.env
+.env.local
+*.pem
+*.key
+
+# Outputs and large media harvest caches (strictly excluded per user instruction)
+output/
+temp_harvest/
+public/clips/
+public/raw_clips/
+ref_videos/
+*.mp4
+*.webm
+*.mkv
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+!public/levelzero0ne_logo.jpg
+
+# Dependencies and build caches
+node_modules/
+.remotion/
+dist/
+build/
+
+# Python virtual envs & caches
+venv/
+__pycache__/
+*.pyc
+
+# OS & IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

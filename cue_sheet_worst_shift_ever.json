@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking Worst",
+  "subjectHeader": "Worst Shift Moments",
+  "versionTag": "(Quit On The Spot)",
+  "globalAudioPath": "public/audio/stems/worst_shift_ever_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/worst_shift_ever/rank_5.mp4",
+      "durationInFrames": 261,
+      "subtitleText": "Level 1: Slipped mid-shift and dropped the entire table's order 💀",
+      "punchlineText": "CLOCKING OUT",
+      "impactFrameOffset": 36
+    },
+    {
+      "videoPath": "clips/worst_shift_ever/rank_4.mp4",
+      "durationInFrames": 267,
+      "subtitleText": "Level 2: When the cement silo decides to sneeze on your truck 😭",
+      "punchlineText": "TOTAL WHITE-OUT",
+      "impactFrameOffset": 81
+    },
+    {
+      "videoPath": "clips/worst_shift_ever/rank_3.mp4",
+      "durationInFrames": 256,
+      "subtitleText": "Level 3: 50,000 liters of red wine flooding the whole winery yard 🍷",
+      "punchlineText": "RED SEA FLOOD",
+      "impactFrameOffset": 30
+    },
+    {
+      "videoPath": "clips/worst_shift_ever/rank_2.mp4",
+      "durationInFrames": 254,
+      "subtitleText": "Level 4: A 20-story wall of cans just decided to quit gravity 😭",
+      "punchlineText": "CAN AVALANCHE",
+      "impactFrameOffset": 69
+    },
+    {
+      "videoPath": "clips/worst_shift_ever/rank_1.mp4",
+      "durationInFrames": 266,
+      "subtitleText": "Level 5: One tiny forklift tap took down the ENTIRE warehouse 💀",
+      "punchlineText": "QUIT ON THE SPOT",
+      "impactFrameOffset": 57
+    }
+  ]
+}

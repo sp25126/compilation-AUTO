@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Ice Slipping Moments",
+  "versionTag": "(Zero Friction Edition)",
+  "globalAudioPath": "public/audio/stems/ice_driveway_slides_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/ice_driveway_slides/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Walked out talking trash and immediately kissed the porch 💀",
+      "punchlineText": "ZERO TRACTION",
+      "impactFrameOffset": 105
+    },
+    {
+      "videoPath": "clips/ice_driveway_slides/rank_4.mp4",
+      "durationInFrames": 245,
+      "subtitleText": "Level 2: Hit black ice and turned into an Olympic figure skater 😭",
+      "punchlineText": "CARTOON RUN",
+      "impactFrameOffset": 55
+    },
+    {
+      "videoPath": "clips/ice_driveway_slides/rank_3.mp4",
+      "durationInFrames": 253,
+      "subtitleText": "Level 3: UPS driver went completely horizontal mid-delivery 📦❄️",
+      "punchlineText": "PACKAGE SECURED",
+      "impactFrameOffset": 115
+    },
+    {
+      "videoPath": "clips/ice_driveway_slides/rank_2.mp4",
+      "durationInFrames": 255,
+      "subtitleText": "Level 4: Coffee in hand, she sledded straight into her own car 😭",
+      "punchlineText": "HUMAN SLED",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/ice_driveway_slides/rank_1.mp4",
+      "durationInFrames": 254,
+      "subtitleText": "Level 5: Brought salt for the ice and slid 100 feet to the street 💀",
+      "punchlineText": "100FT SLIDE",
+      "impactFrameOffset": 95
+    }
+  ]
+}

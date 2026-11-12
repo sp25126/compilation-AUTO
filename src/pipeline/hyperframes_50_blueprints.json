@@ -1,0 +1,6852 @@
+{
+  "people_accepting_fate": {
+    "sub_id": "people_accepting_fate",
+    "niche": "human_fails",
+    "name": "People Accepting Fate",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "People Accepting Fate Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "This Is The End Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Surrender Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "battling_gravity_losing": {
+    "sub_id": "battling_gravity_losing",
+    "niche": "human_fails",
+    "name": "Battling Gravity & Losing",
+    "reference_short": {
+      "id": "mbHNbK0fASs",
+      "title": "Guy slipping on ice while holding a bowl of hot soup\ud83e\udd23",
+      "duration": 41.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Gravity Winning Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Balance Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/cartoon_slip.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "clumsy_public_moments": {
+    "sub_id": "clumsy_public_moments",
+    "niche": "human_fails",
+    "name": "Clumsy Public Moments",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Clumsy Public Moments Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Public Clumsy Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Awkward Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/glass_shatter.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "overconfident_humbled": {
+    "sub_id": "overconfident_humbled",
+    "niche": "human_fails",
+    "name": "Overconfident Humbled",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Overconfident Humbled Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Overconfident Fails",
+      "line2_color": "#FF2D55",
+      "line3": "(Humbled Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "moments_before_impact": {
+    "sub_id": "moments_before_impact",
+    "niche": "human_fails",
+    "name": "Moments Before Impact",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Moments Before Impact Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Craziest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Before Disaster Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Realization Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "road_rage_justice": {
+    "sub_id": "road_rage_justice",
+    "niche": "instant_karma",
+    "name": "Road Rage Justice",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Road Rage Justice Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Road Rage Karma Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Justice Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/siren_short.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "defying_warning_signs": {
+    "sub_id": "defying_warning_signs",
+    "niche": "instant_karma",
+    "name": "Defying Warning Signs",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Defying Warning Signs Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Ignored Warning Signs",
+      "line2_color": "#FF2D55",
+      "line3": "(Instant Karma)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/record_scratch.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "pranks_backfired": {
+    "sub_id": "pranks_backfired",
+    "niche": "instant_karma",
+    "name": "Pranks Backfired",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Pranks Backfired Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Pranks Gone Wrong Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Countered Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/fail_buzzer.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "taunting_animals": {
+    "sub_id": "taunting_animals",
+    "niche": "instant_karma",
+    "name": "Taunting Animals",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Taunting Animals Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Animal Karma Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Nature Fights Back)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "cocky_challengers": {
+    "sub_id": "cocky_challengers",
+    "niche": "instant_karma",
+    "name": "Cocky Challengers",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Cocky Challengers Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Early Celebration Fails",
+      "line2_color": "#FF2D55",
+      "line3": "(Humbled Fast)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/fail_buzzer.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "pets_being_dumb": {
+    "sub_id": "pets_being_dumb",
+    "niche": "funny_animals",
+    "name": "Dogs Being Clumsy",
+    "reference_short": {
+      "id": "T3etmRkCRrA",
+      "title": "Dog vs Glass\ud83e\udd23 #shorts",
+      "duration": 5.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Clumsy Dog Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Dog Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/cartoon_slip.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "pets_being_smart": {
+    "sub_id": "pets_being_smart",
+    "niche": "funny_animals",
+    "name": "Pets Being Smart",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Pets Being Smart Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Smartest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Genius Pet Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(200 IQ Pets)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "animal_funny_moments": {
+    "sub_id": "animal_funny_moments",
+    "niche": "funny_animals",
+    "name": "Animal Funny Moments",
+    "reference_short": {
+      "id": "KieWRYagJuE",
+      "title": "Cat Zoomies",
+      "duration": 13.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Animal Chaos Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Chaos Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/cartoon_slip.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "pets_in_slow_motion": {
+    "sub_id": "pets_in_slow_motion",
+    "niche": "funny_animals",
+    "name": "Pets In Slow Motion",
+    "reference_short": {
+      "id": "lgDEJY8b2kI",
+      "title": "videoblocks dog catching treat in slow motion byyare8h  D",
+      "duration": 8.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Pets In Slow Motion",
+      "line2_color": "#FF2D55",
+      "line3": "(Slow Mo Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "animals_becoming_scarier": {
+    "sub_id": "animals_becoming_scarier",
+    "niche": "funny_animals",
+    "name": "Animals Becoming Scarier",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Animals Becoming Scarier Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Craziest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Uncanny Animal Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Eerie Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/record_scratch.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "ice_driveway_slides": {
+    "sub_id": "ice_driveway_slides",
+    "niche": "nature_weather",
+    "name": "Ice Driveway Slides",
+    "reference_short": {
+      "id": "RqajKat0v-4",
+      "title": "Snowy vehicle slip and slide in Vancouver",
+      "duration": 41.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Ice Driveway Slides",
+      "line2_color": "#FF2D55",
+      "line3": "(Icy Slopes)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "sudden_wind_ruining_events": {
+    "sub_id": "sudden_wind_ruining_events",
+    "niche": "nature_weather",
+    "name": "Sudden Wind Ruining Events",
+    "reference_short": {
+      "id": "z5Le0_SqSX8",
+      "title": "Umbrella Flips Inside Out as Strong Winds and Rain Hit Manila, Philippines - 1701147",
+      "duration": 7.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Worst",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Wind Ruined Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Storm Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/cartoon_slip.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "rogue_waves": {
+    "sub_id": "rogue_waves",
+    "niche": "nature_weather",
+    "name": "Rogue Waves",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Rogue Waves Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Beach Sneak Waves",
+      "line2_color": "#FF2D55",
+      "line3": "(Wave Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "wildlife_close_calls": {
+    "sub_id": "wildlife_close_calls",
+    "niche": "nature_weather",
+    "name": "Wildlife Close Calls",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Wildlife Close Calls Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Craziest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Wildlife Close Calls",
+      "line2_color": "#FF2D55",
+      "line3": "(Tourist Encounters)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/record_scratch.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "lightning_jump_scares": {
+    "sub_id": "lightning_jump_scares",
+    "niche": "nature_weather",
+    "name": "Lightning Jump Scares",
+    "reference_short": {
+      "id": "erlbsRQbxn4",
+      "title": "Lightning jump scare",
+      "duration": 24.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Lightning Jump Scares",
+      "line2_color": "#FF2D55",
+      "line3": "(Thunder Shock)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "one_million_aura_loss": {
+    "sub_id": "one_million_aura_loss",
+    "niche": "aura_debt",
+    "name": "-1,000,000 Aura Moments",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "-1,000,000 Aura Moments Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Worst",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "-1,000,000 Aura Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Aura Loss)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "failed_swagger_poses": {
+    "sub_id": "failed_swagger_poses",
+    "niche": "aura_debt",
+    "name": "Failed Swagger Moments",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Failed Swagger Moments Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Failed Swagger Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Swagger Fails)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/fail_buzzer.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "left_hanging_public": {
+    "sub_id": "left_hanging_public",
+    "niche": "aura_debt",
+    "name": "Left Hanging Moments",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Left Hanging Moments Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Most",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Left Hanging Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Awkward Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/record_scratch.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "luxury_flexes_backfiring": {
+    "sub_id": "luxury_flexes_backfiring",
+    "niche": "aura_debt",
+    "name": "Luxury Flexes Fails",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Luxury Flexes Fails Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Luxury Flexes Fails",
+      "line2_color": "#FF2D55",
+      "line3": "(Expensive Mistakes)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/fail_buzzer.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "adults_humbled_by_kids": {
+    "sub_id": "adults_humbled_by_kids",
+    "niche": "aura_debt",
+    "name": "Adults Humbled By Kids",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Adults Humbled By Kids Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Adults Humbled By Kids",
+      "line2_color": "#FF2D55",
+      "line3": "(Humbling Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "athletes_celebrating_too_early": {
+    "sub_id": "athletes_celebrating_too_early",
+    "niche": "sports_bloopers",
+    "name": "Early Celebrations",
+    "reference_short": {
+      "id": "vWa9iYYPYF4",
+      "title": "Oregon runner prematurely celebrates win, gets passed at finish line",
+      "duration": 28.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Worst",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Early Celebrations",
+      "line2_color": "#FF2D55",
+      "line3": "(Don't Celebrate Yet)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/fail_buzzer.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "trickshot_disasters": {
+    "sub_id": "trickshot_disasters",
+    "niche": "sports_bloopers",
+    "name": "Trickshot Disasters",
+    "reference_short": {
+      "id": "hclBGJNyoMs",
+      "title": "Young Shaq Shatters The Backboard \ud83e\udd2f",
+      "duration": 15.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Craziest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Trickshot Disasters",
+      "line2_color": "#FF2D55",
+      "line3": "(Disaster Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/glass_shatter.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "goalkeeper_brainfades": {
+    "sub_id": "goalkeeper_brainfades",
+    "niche": "sports_bloopers",
+    "name": "Goalkeeper Brainfades",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Goalkeeper Brainfades Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Worst",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Goalkeeper Brainfades",
+      "line2_color": "#FF2D55",
+      "line3": "(Goalie Blunders)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/fail_buzzer.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "gymnast_routine_mishaps": {
+    "sub_id": "gymnast_routine_mishaps",
+    "niche": "sports_bloopers",
+    "name": "Gymnast Mishap Moments",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Gymnast Mishap Moments Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Gymnast Mishap Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Landing Fails)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/cartoon_slip.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "referee_collisions": {
+    "sub_id": "referee_collisions",
+    "niche": "sports_bloopers",
+    "name": "Referee Collisions",
+    "reference_short": {
+      "id": "vHfmZMQc_cI",
+      "title": "Alvin Kamara Breaks Refs Leg",
+      "duration": 13.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Referee Collisions",
+      "line2_color": "#FF2D55",
+      "line3": "(Ref Fails)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "unrendered_game_npcs": {
+    "sub_id": "unrendered_game_npcs",
+    "niche": "npc_glitches",
+    "name": "Real-Life NPC Glitches",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Real-Life NPC Glitches Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Craziest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Real-Life NPC Glitches",
+      "line2_color": "#FF2D55",
+      "line3": "(Matrix Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/record_scratch.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "dialogue_loop_real_life": {
+    "sub_id": "dialogue_loop_real_life",
+    "niche": "npc_glitches",
+    "name": "Real-Life Dialogue Loops",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Real-Life Dialogue Loops Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Real-Life Dialogue Loops",
+      "line2_color": "#FF2D55",
+      "line3": "(Looping NPCs)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/record_scratch.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "pathfinding_ai_broken": {
+    "sub_id": "pathfinding_ai_broken",
+    "niche": "npc_glitches",
+    "name": "Broken Pathfinding NPCs",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Broken Pathfinding NPCs Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Broken Pathfinding NPCs",
+      "line2_color": "#FF2D55",
+      "line3": "(Glitch Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/cartoon_slip.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "object_collision_fails": {
+    "sub_id": "object_collision_fails",
+    "niche": "npc_glitches",
+    "name": "Object Collision Fails",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Object Collision Fails Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Most",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Object Collision Fails",
+      "line2_color": "#FF2D55",
+      "line3": "(Physics Broken)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "npc_idle_animations": {
+    "sub_id": "npc_idle_animations",
+    "niche": "npc_glitches",
+    "name": "Synchronized NPCs",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Synchronized NPCs Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Craziest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Synchronized NPCs",
+      "line2_color": "#FF2D55",
+      "line3": "(Matrix Glitches)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/record_scratch.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "worst_shift_ever": {
+    "sub_id": "worst_shift_ever",
+    "niche": "workplace_disasters",
+    "name": "Worst Shift Moments",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Worst Shift Moments Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Worst",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Worst Shift Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(Disaster At Work)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "forklift_domino_disasters": {
+    "sub_id": "forklift_domino_disasters",
+    "niche": "workplace_disasters",
+    "name": "Forklift Domino Fails",
+    "reference_short": {
+      "id": "uARKjJ5AQ-I",
+      "title": "Amaz-in! Forklift Driver Causes An Warehouse To Fall Like Dominoes",
+      "duration": 58.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Craziest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Forklift Domino Fails",
+      "line2_color": "#FF2D55",
+      "line3": "(Warehouse Collapse)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "commercial_kitchen_nightmares": {
+    "sub_id": "commercial_kitchen_nightmares",
+    "niche": "workplace_disasters",
+    "name": "Commercial Kitchen Fails",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Commercial Kitchen Fails Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Worst",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Commercial Kitchen Fails",
+      "line2_color": "#FF2D55",
+      "line3": "(Kitchen Disasters)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/glass_shatter.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "retail_display_rampage": {
+    "sub_id": "retail_display_rampage",
+    "niche": "workplace_disasters",
+    "name": "Retail Display Collapses",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Retail Display Collapses Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Retail Display Collapses",
+      "line2_color": "#FF2D55",
+      "line3": "(Aisle 4 Version)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/cartoon_slip.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "delivery_driver_mishaps": {
+    "sub_id": "delivery_driver_mishaps",
+    "niche": "workplace_disasters",
+    "name": "Delivery Driver Slips",
+    "reference_short": {
+      "id": "737dbjlPQc8",
+      "title": "UK Weather: Funny moment delivery driver slips on ice while chasing his own van",
+      "duration": 53.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Best Of",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Delivery Driver Slips",
+      "line2_color": "#FF2D55",
+      "line3": "(Porch Glides)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "used_all_luck_for_life": {
+    "sub_id": "used_all_luck_for_life",
+    "niche": "extreme_luck",
+    "name": "Used All Luck For Life",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Used All Luck For Life Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Most",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Used All Luck For Life",
+      "line2_color": "#FF2D55",
+      "line3": "(Near Misses)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "accidental_trickshots": {
+    "sub_id": "accidental_trickshots",
+    "niche": "extreme_luck",
+    "name": "Accidental Trickshots",
+    "reference_short": {
+      "id": "Uc0B_WXS8c4",
+      "title": "Elastic & Bounce Animation in After Effects #shorts",
+      "duration": 41.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Smartest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Accidental Trickshots",
+      "line2_color": "#FF2D55",
+      "line3": "(100% Calculated)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "physics_defying_saves": {
+    "sub_id": "physics_defying_saves",
+    "niche": "extreme_luck",
+    "name": "Physics-Defying Saves",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Physics-Defying Saves Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Physics-Defying Saves",
+      "line2_color": "#FF2D55",
+      "line3": "(Miracle Saves)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "unintentional_hero_catches": {
+    "sub_id": "unintentional_hero_catches",
+    "niche": "extreme_luck",
+    "name": "Dad Reflex Catches",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Dad Reflex Catches Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Craziest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Dad Reflex Catches",
+      "line2_color": "#FF2D55",
+      "line3": "(Dad Reflexes)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/skyfall_this_is_the_end.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "vehicle_360_recoveries": {
+    "sub_id": "vehicle_360_recoveries",
+    "niche": "extreme_luck",
+    "name": "Vehicle 360 Recoveries",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Vehicle 360 Recoveries Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Vehicle 360 Recoveries",
+      "line2_color": "#FF2D55",
+      "line3": "(Clean 360s)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/siren_short.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "bench_press_ego_fails": {
+    "sub_id": "bench_press_ego_fails",
+    "niche": "gym_bloopers",
+    "name": "Bench Press Ego Fails",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Bench Press Ego Fails Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Worst",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Bench Press Ego Fails",
+      "line2_color": "#FF2D55",
+      "line3": "(Ego Lifting)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "treadmill_slingshots": {
+    "sub_id": "treadmill_slingshots",
+    "niche": "gym_bloopers",
+    "name": "Treadmill Slingshots",
+    "reference_short": {
+      "id": "Uuw-7RAk-EE",
+      "title": "HomeFitnessCode -  2 in 1 Folding Treadmill 1-10km/h, Under Desk Treadmill",
+      "duration": 24.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Treadmill Slingshots",
+      "line2_color": "#FF2D55",
+      "line3": "(Max Speed Ejection)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/cartoon_slip.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "squat_rack_blunders": {
+    "sub_id": "squat_rack_blunders",
+    "niche": "gym_bloopers",
+    "name": "Squat Rack Blunders",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Squat Rack Blunders Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Best",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Squat Rack Blunders",
+      "line2_color": "#FF2D55",
+      "line3": "(Bail Fails)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/thud_whack.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "equipment_misuse": {
+    "sub_id": "equipment_misuse",
+    "niche": "gym_bloopers",
+    "name": "Gym Equipment Misuse",
+    "reference_short": {
+      "id": "DYzT-Pk6Ogw",
+      "title": "Gym Equipment Misuse Compilation",
+      "duration": 30.0,
+      "source": "fallback"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking Funniest",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Gym Equipment Misuse",
+      "line2_color": "#FF2D55",
+      "line3": "(Wrong Exercises)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/record_scratch.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 900,
+      "scene_cuts": [
+        0,
+        180,
+        360,
+        540,
+        720,
+        900
+      ],
+      "apex_frames": [
+        90,
+        270,
+        450,
+        630,
+        810
+      ],
+      "motion_energy": 0.75,
+      "dominant_header_color": "#000000"
+    }
+  },
+  "spotter_distracted": {
+    "sub_id": "spotter_distracted",
+    "niche": "gym_bloopers",
+    "name": "Distracted Spotter Moments",
+    "reference_short": {
+      "id": "QAGDOnIKoks",
+      "title": "CHEST DAY - BAD SPOTTING!",
+      "duration": 15.0,
+      "source": "viral_search"
+    },
+    "canvas": {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "total_duration_frames": 791
+    },
+    "header_layout": {
+      "type": "SolidBanner",
+      "height_px": 240,
+      "line1": "Ranking The Worst",
+      "line1_highlight_color": "#FFEB3B",
+      "line2": "Distracted Spotter Moments",
+      "line2_color": "#FF2D55",
+      "line3": "(One Job)",
+      "line3_color": "#00D2FF"
+    },
+    "countdown_ladder": {
+      "progression": "bottom_up_climb",
+      "start_rank": 5,
+      "end_rank": 1,
+      "ladder_items": [
+        {
+          "rank": 1,
+          "color": "#FF2D55",
+          "label": "[Level 5]"
+        },
+        {
+          "rank": 2,
+          "color": "#00D2FF",
+          "label": "[Level 4]"
+        },
+        {
+          "rank": 3,
+          "color": "#FFEB3B",
+          "label": "[Level 3]"
+        },
+        {
+          "rank": 4,
+          "color": "#FFFFFF",
+          "label": "[Level 2]"
+        },
+        {
+          "rank": 5,
+          "color": "#FFFFFF",
+          "label": "[Level 1]"
+        }
+      ],
+      "rank_1_mystery_lock": true,
+      "mystery_badge_text": "[ \ud83d\udd12 LOCKED ? ]"
+    },
+    "dynamic_camera": {
+      "suspense_push_in": {
+        "from_scale": 1.0,
+        "to_scale": 1.08,
+        "duration": "buildup"
+      },
+      "apex_snap_zoom": {
+        "apex_scale": 1.15,
+        "settle_scale": 1.0,
+        "duration_frames": 12
+      },
+      "impact_shake": {
+        "enabled": true,
+        "intensity_px": 12,
+        "decay_frames": 4
+      }
+    },
+    "kinetic_punchline": {
+      "text": "THIS IS THE END",
+      "cadence_words": [
+        "THIS",
+        "IS",
+        "THE",
+        "END"
+      ],
+      "active_color": "#FFEB3B",
+      "base_color": "#FF2D55",
+      "glow_box_shadow": "0 0 50px rgba(255, 45, 85, 0.8)",
+      "border_color": "#FF2D55"
+    },
+    "audio_timeline": {
+      "dialogue_track": {
+        "vo_gain_db": 0.0,
+        "ducking_depth_db": -14.0
+      },
+      "bgm_track": {
+        "base_volume": 0.2,
+        "ducked_volume": 0.035,
+        "punchline_mute_frames": 12
+      },
+      "hook_stem": {
+        "stem_path": "public/audio/stems/public/audio/stems/fail_buzzer.mp3",
+        "duck_clip_volume": 0.15,
+        "lead_in_offset_frames": -4
+      },
+      "mastering": {
+        "lufs_target": -14.0,
+        "true_peak_db": -1.5
+      }
+    },
+    "branding": {
+      "channel_name": "LevelZero0ne",
+      "logo_path": "levelzero0ne_logo.jpg",
+      "outro_card_frames": 75,
+      "earshot_sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+    },
+    "30fps_dissection": {
+      "total_frames_30fps": 447,
+      "scene_cuts": [
+        0,
+        89,
+        178,
+        267,
+        356,
+        445
+      ],
+      "apex_frames": [
+        53,
+        142,
+        231,
+        320,
+        409
+      ],
+      "motion_energy": 6.809900694444443,
+      "dominant_header_color": "#000000"
+    }
+  }
+}

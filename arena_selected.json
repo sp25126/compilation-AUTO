@@ -1,0 +1,42 @@
+[
+  {
+    "clip_id": "TxL5IKy6q3A",
+    "file_path": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\raw_clips\\tiktok_TxL5IKy6q3A.mp4",
+    "score": 9.4,
+    "incident_type": "clumsy_action",
+    "punchlineText": "HE IS TRYING HIS BEST",
+    "reason": "Fallback Heuristic: Two-Tier Consensus for 'pets_being_dumb': Subjects=['dog', 'cat', 'puppy'], Actions=['fall', 'funny'], Phrases=[]. Community consensus=0 []."
+  },
+  {
+    "clip_id": "GSWwMOvYegU",
+    "file_path": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\raw_clips\\GSWwMOvYegU.mp4",
+    "score": 9.4,
+    "incident_type": "clumsy_action",
+    "punchlineText": "ZERO BRAINCELLS",
+    "reason": "Fallback Heuristic: Two-Tier Consensus for 'pets_being_dumb': Subjects=['dog'], Actions=['fail', 'fails', 'funny'], Phrases=['dog fail']. Community consensus=0 []."
+  },
+  {
+    "clip_id": "qf_R6ggyD94",
+    "file_path": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\raw_clips\\qf_R6ggyD94.mp4",
+    "score": 9.4,
+    "incident_type": "clumsy_action",
+    "punchlineText": "ONE SHARED BRAINCELL",
+    "reason": "Fallback Heuristic: Two-Tier Consensus for 'pets_being_dumb': Subjects=['dog', 'pet'], Actions=['jump', 'funny'], Phrases=[]. Community consensus=0 []."
+  },
+  {
+    "clip_id": "EPGoNqD8gFY",
+    "file_path": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\raw_clips\\EPGoNqD8gFY.mp4",
+    "score": 9.2,
+    "incident_type": "clumsy_action",
+    "punchlineText": "SYSTEM REBOOT NEEDED",
+    "reason": "Fallback Heuristic: Two-Tier Consensus for 'pets_being_dumb': Subjects=['dog'], Actions=['fail', 'funny'], Phrases=[]. Community consensus=0 []."
+  },
+  {
+    "clip_id": "LHdyk7L_TqI",
+    "file_path": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\raw_clips\\LHdyk7L_TqI.mp4",
+    "score": 9.2,
+    "incident_type": "clumsy_action",
+    "punchlineText": "PET LOGIC ERROR",
+    "reason": "Fallback Heuristic: Two-Tier Consensus for 'pets_being_dumb': Subjects=['dog', 'animal'], Actions=['fails'], Phrases=[]. Community consensus=0 []."
+  }
+]

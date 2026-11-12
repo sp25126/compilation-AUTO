@@ -1,0 +1,43 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Delivery Driver Fails",
+  "versionTag": "(Ring Camera Edition)",
+  "globalAudioPath": "public/audio/stems/delivery_driver_mishaps_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/delivery_driver_mishaps/rank_5.mp4",
+      "durationInFrames": 255,
+      "subtitleText": "Level 1: Walked up to the porch and yeeted the package like a frisbee 💀",
+      "punchlineText": "AIRMAIL EXPRESS",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/delivery_driver_mishaps/rank_4.mp4",
+      "durationInFrames": 270,
+      "subtitleText": "Level 2: Dropped the box and sprinted away—straight onto the concrete 😭",
+      "punchlineText": "DRIVEWAY WIPEOUT",
+      "impactFrameOffset": 150
+    },
+    {
+      "videoPath": "clips/delivery_driver_mishaps/rank_3.mp4",
+      "durationInFrames": 264,
+      "subtitleText": "Level 3: Missed the bottom step and went full horizontal on the porch 📦💀",
+      "punchlineText": "PORCH FACEPLANT",
+      "impactFrameOffset": 70
+    },
+    {
+      "videoPath": "clips/delivery_driver_mishaps/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Slipped at the top step and tumbled all the way down backwards 😭",
+      "punchlineText": "REVERSE STAIR SLIDE",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/delivery_driver_mishaps/rank_1.mp4",
+      "durationInFrames": 282,
+      "subtitleText": "Level 5: Slipped once, tried to recover, and immediately got body-slammed twice 💀",
+      "punchlineText": "DOUBLE KO",
+      "impactFrameOffset": 195
+    }
+  ]
+}

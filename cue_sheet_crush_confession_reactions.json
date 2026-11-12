@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Cutest",
+  "subjectHeader": "Crush Confession Reactions",
+  "versionTag": "(Heart Racing Edition)",
+  "globalAudioPath": "public/audio/stems/crush_confession_reactions_music_bed.mp3",
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/crush_confession_reactions/clip_rank_5.mp4",
+      "durationInFrames": 247,
+      "subtitleText": "Level 1: Confessed her feelings and got the sweetest shy 'I like you too' back 🥺💖"
+    },
+    {
+      "videoPath": "clips/crush_confession_reactions/clip_rank_4.mp4",
+      "durationInFrames": 264,
+      "subtitleText": "Level 2: Told him she had feelings and he revealed he was planning to ask her out 😳✨"
+    },
+    {
+      "videoPath": "clips/crush_confession_reactions/clip_rank_3.mp4",
+      "durationInFrames": 253,
+      "subtitleText": "Level 3: Shy guy finally confessed on call and melted into the biggest blush ever 🥹📞"
+    },
+    {
+      "videoPath": "clips/crush_confession_reactions/clip_rank_2.mp4",
+      "durationInFrames": 264,
+      "subtitleText": "Level 4: Called her crush and he yelled 'Are you serious? It is 100% mutual!' 🎉💘"
+    },
+    {
+      "videoPath": "clips/crush_confession_reactions/clip_rank_1.mp4",
+      "durationInFrames": 260,
+      "subtitleText": "Level 5: Asked him on a date after years of friendship and he instantly said 'Absolutely' 😭❤️"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Premature Celebrations",
+  "versionTag": "(Too Early Edition)",
+  "subCategoryId": "athletes_celebrating_too_early",
+  "subCategoryName": "CELEBRATING TOO EARLY",
+  "globalAudioPath": "public/audio/stems/karma_comedy_master.mp3",
+  "clips": [
+    {
+      "id": "athletes_early_5",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\athletes_celebrating_too_early\\clip_5.mp4",
+      "durationInFrames": 210
+    },
+    {
+      "id": "athletes_early_4",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\athletes_celebrating_too_early\\clip_4.mp4",
+      "durationInFrames": 252
+    },
+    {
+      "id": "athletes_early_3",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\athletes_celebrating_too_early\\clip_3.mp4",
+      "durationInFrames": 270
+    },
+    {
+      "id": "athletes_early_2",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\athletes_celebrating_too_early\\clip_2.mp4",
+      "durationInFrames": 285
+    },
+    {
+      "id": "athletes_early_1",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\athletes_celebrating_too_early\\clip_1.mp4",
+      "durationInFrames": 252
+    }
+  ]
+}

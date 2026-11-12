@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "200 IQ Smart Pet Moments",
+  "versionTag": "(Genius Edition)",
+  "subCategoryId": "pets_being_smart",
+  "subCategoryName": "200 IQ SMART PETS",
+  "globalAudioPath": "public/audio/stems/karma_comedy_master.mp3",
+  "clips": [
+    {
+      "id": "yt_oKNc948aC_M",
+      "videoPath": "public/clips/pets_being_smart/clip_rank5.mp4",
+      "durationInFrames": 216
+    },
+    {
+      "id": "yt_LRyJ6tn3RwY",
+      "videoPath": "public/clips/pets_being_smart/clip_rank4.mp4",
+      "durationInFrames": 255
+    },
+    {
+      "id": "r_1wgm133ae5f41",
+      "videoPath": "public/clips/pets_being_smart/clip_rank3.mp4",
+      "durationInFrames": 242
+    },
+    {
+      "id": "yt_u_T29QcphRg",
+      "videoPath": "public/clips/pets_being_smart/clip_rank2.mp4",
+      "durationInFrames": 255
+    },
+    {
+      "id": "r_jexr4vpdcak71",
+      "videoPath": "public/clips/pets_being_smart/clip_rank1.mp4",
+      "durationInFrames": 249
+    }
+  ]
+}

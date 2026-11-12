@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Wind Ruining Everything",
+  "versionTag": "(Zero Mercy Edition)",
+  "globalAudioPath": "public/audio/stems/sudden_wind_ruining_events_music_bed.mp3",
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/sudden_wind_ruining_events/clip_5.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 1: Untied tent goes rolling down the mountain while campers chase in vain ⛺💨"
+    },
+    {
+      "videoPath": "clips/sudden_wind_ruining_events/clip_4.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 2: Sudden storm gust turns giant inflatable bounce house into a tumbleweed 🎪🌪️"
+    },
+    {
+      "videoPath": "clips/sudden_wind_ruining_events/clip_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Freak wind gale flips trampoline clean through suburban wooden fence 💥💨"
+    },
+    {
+      "videoPath": "clips/sudden_wind_ruining_events/clip_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Sudden gale launches power kite pilot 25 feet airborne across field 🪁🚀"
+    },
+    {
+      "videoPath": "clips/sudden_wind_ruining_events/clip_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Tornado wind gust sends porta potties flying 50 feet into the clouds 🚽✈️"
+    }
+  ]
+}

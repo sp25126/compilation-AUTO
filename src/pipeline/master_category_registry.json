@@ -1,0 +1,1825 @@
+{
+  "channel_reference": "@MrPurifiedWater",
+  "branding": {
+    "channel_name": "LevelZero0ne",
+    "logo_path": "public/levelzero0ne_logo.jpg",
+    "sonic_brand": "public/audio/earshot_sonic_brand.mp3"
+  },
+  "visual_archetype": {
+    "top_banner": {
+      "height_px": 240,
+      "background": "#000000",
+      "prefix_text": "Ranking The",
+      "prefix_color": "#FFFFFF",
+      "highlight_color": "#FFEB3B",
+      "subject_color": "#FF2D55",
+      "tag_color": "#00D2FF"
+    },
+    "ladder": {
+      "type": "level_climb",
+      "direction": "bottom_to_top",
+      "ranks_total": 5,
+      "levels": [
+        "[Level 1]",
+        "[Level 2]",
+        "[Level 3]",
+        "[Level 4]",
+        "[Level 5]"
+      ],
+      "colors": {
+        "rank_1": "#FF2D55",
+        "rank_2": "#00D2FF",
+        "rank_3": "#FFEB3B",
+        "rank_4": "#FFFFFF",
+        "rank_5": "#FFFFFF"
+      }
+    }
+  },
+  "universal_negative_filters": [
+    "podcast",
+    "interview",
+    "commentary",
+    "reaction",
+    "facecam",
+    "split screen",
+    "green screen",
+    "news report",
+    "news anchor",
+    "review",
+    "vlog",
+    "gameplay",
+    "gta",
+    "beamng",
+    "forza",
+    "animation",
+    "cgi",
+    "3d model",
+    "slideshow",
+    "tweet"
+  ],
+  "subcategories": {
+    "people_accepting_fate": {
+      "niche": "human_fails",
+      "name": "People Accepting Fate",
+      "title_header": "Ranking Best Of",
+      "subject_header": "This Is The End Moments",
+      "version_tag": "(Surrender Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.2
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.8
+      },
+      "harvester": {
+        "primary_queries": [
+          "he accepted his fate fail shorts",
+          "person accepts fate fail shorts",
+          "he gave up mid fall fail shorts",
+          "slide down ice driveway helpless surrender shorts"
+        ],
+        "fallback_queries": [
+          "it do go down robert boat waterfall",
+          "ice slide surrender fail cctv",
+          "person sliding helplessly driveway fail"
+        ],
+        "strict_visual_requirements": "Must show a person recognizing an inevitable impending fail and completely freezing or surrendering."
+      }
+    },
+    "battling_gravity_losing": {
+      "niche": "human_fails",
+      "name": "Battling Gravity & Losing",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Gravity Winning Moments",
+      "version_tag": "(Balance Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cartoon_slip.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 30,
+        "duck_native_volume": 0.3
+      },
+      "timing_rules": {
+        "buildup_seconds": 4.0,
+        "freeze_seconds": 1.0,
+        "aftermath_seconds": 1.5
+      },
+      "harvester": {
+        "primary_queries": [
+          "ice slip struggling to balance fail shorts",
+          "trampoline balance fail slide shorts",
+          "ladder balance slip fail shorts"
+        ],
+        "fallback_queries": [
+          "hammock flip balance fail funny",
+          "person slipping on ice trying to balance cctv"
+        ],
+        "strict_visual_requirements": "Physical struggle against gravity on ladder, ice, roof, or hammock."
+      }
+    },
+    "clumsy_public_moments": {
+      "niche": "human_fails",
+      "name": "Clumsy Public Moments",
+      "title_header": "Ranking The Best",
+      "subject_header": "Public Clumsy Moments",
+      "version_tag": "(Awkward Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/glass_shatter.mp3",
+        "trigger_timing": "at_impact",
+        "freeze_frames": 25,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.0,
+        "freeze_seconds": 0.8,
+        "aftermath_seconds": 2.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "walking into clean glass door fail shorts",
+          "tripping in public funny stumble shorts",
+          "dropping food tray in cafeteria clumsy shorts"
+        ],
+        "fallback_queries": [
+          "person walks into glass window mall cctv",
+          "public clumsy fall coffee drop"
+        ],
+        "strict_visual_requirements": "Real-life tripping, walking into glass doors, or dropping items in public."
+      }
+    },
+    "overconfident_humbled": {
+      "niche": "human_fails",
+      "name": "Overconfident Humbled",
+      "title_header": "Ranking Best Of",
+      "subject_header": "Overconfident Fails",
+      "version_tag": "(Humbled Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 30,
+        "duck_native_volume": 0.3
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.8,
+        "freeze_seconds": 1.0,
+        "aftermath_seconds": 1.5
+      },
+      "harvester": {
+        "primary_queries": [
+          "parkour leap miscalculated fail shorts",
+          "skateboard boast immediate fail shorts",
+          "gymnastics stunt overconfident fail shorts"
+        ],
+        "fallback_queries": [
+          "showing off backflip fail grass",
+          "bro thought he could jump fail"
+        ],
+        "strict_visual_requirements": "Stunt failing immediately after showboating."
+      }
+    },
+    "moments_before_impact": {
+      "niche": "human_fails",
+      "name": "Moments Before Impact",
+      "title_header": "Ranking Craziest",
+      "subject_header": "Before Disaster Moments",
+      "version_tag": "(Realization Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 40,
+        "duck_native_volume": 0.15
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.0,
+        "freeze_seconds": 1.3,
+        "aftermath_seconds": 1.5
+      },
+      "harvester": {
+        "primary_queries": [
+          "moment before disaster realization shorts",
+          "frozen seconds before impact funny shorts",
+          "fast moving ball hits camera realization shorts"
+        ],
+        "fallback_queries": [
+          "slow motion realization before impact",
+          "frozen frame right before water balloon impact"
+        ],
+        "strict_visual_requirements": "Object or obstacle about to make impact, frozen at realization frame."
+      }
+    },
+    "road_rage_justice": {
+      "niche": "instant_karma",
+      "name": "Road Rage Justice",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Road Rage Karma Moments",
+      "version_tag": "(Justice Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/siren_short.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 30,
+        "duck_native_volume": 0.3
+      },
+      "timing_rules": {
+        "buildup_seconds": 4.5,
+        "freeze_seconds": 1.0,
+        "aftermath_seconds": 2.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "road rage instant karma dashcam shorts",
+          "aggressive driver spins out dashcam shorts",
+          "road rage police officer instant justice shorts"
+        ],
+        "fallback_queries": [
+          "convenient cop road rage dashcam",
+          "brake check karma instant police dashcam"
+        ],
+        "strict_visual_requirements": "Raw dashcam footage showing road rage retaliation or police intervention."
+      }
+    },
+    "defying_warning_signs": {
+      "niche": "instant_karma",
+      "name": "Defying Warning Signs",
+      "title_header": "Ranking Best Of",
+      "subject_header": "Ignored Warning Signs",
+      "version_tag": "(Instant Karma)",
+      "audio_hook": {
+        "stem": "public/audio/stems/record_scratch.mp3",
+        "trigger_timing": "at_impact",
+        "freeze_frames": 30,
+        "duck_native_volume": 0.2
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.0,
+        "aftermath_seconds": 1.8
+      },
+      "harvester": {
+        "primary_queries": [
+          "ignoring danger sign immediate regret shorts",
+          "person trespasses thin ice falls shorts",
+          "touching wet paint consequence shorts"
+        ],
+        "fallback_queries": [
+          "stepping on thin ice sign ignored fail",
+          "danger sign ignored instant consequence"
+        ],
+        "strict_visual_requirements": "Ignoring clear warning signs or barriers with immediate physical consequence."
+      }
+    },
+    "pranks_backfired": {
+      "niche": "instant_karma",
+      "name": "Pranks Backfired",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Pranks Gone Wrong Moments",
+      "version_tag": "(Countered Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/fail_buzzer.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.8
+      },
+      "harvester": {
+        "primary_queries": [
+          "prank backfires instantly on prankster shorts",
+          "prankster caught countered instant regret shorts",
+          "scare prank backfired target retaliates shorts"
+        ],
+        "fallback_queries": [
+          "jump scare prank counter punch real",
+          "water bucket prank backfires on thrower"
+        ],
+        "strict_visual_requirements": "Unscripted raw footage of prankster receiving immediate retaliation."
+      }
+    },
+    "taunting_animals": {
+      "niche": "instant_karma",
+      "name": "Taunting Animals",
+      "title_header": "Ranking The Best",
+      "subject_header": "Animal Karma Moments",
+      "version_tag": "(Nature Fights Back)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_impact",
+        "freeze_frames": 30,
+        "duck_native_volume": 0.3
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.0,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "person taunting goose gets attacked shorts",
+          "taunting dog ram immediate karma shorts",
+          "mocking monkey gets chased karma shorts"
+        ],
+        "fallback_queries": [
+          "goose attacks guy taunting it funny",
+          "ram headbutts taunting man karma"
+        ],
+        "strict_visual_requirements": "Person provoking goose, ram, or goat and getting charged."
+      }
+    },
+    "cocky_challengers": {
+      "niche": "instant_karma",
+      "name": "Cocky Challengers",
+      "title_header": "Ranking Best Of",
+      "subject_header": "Early Celebration Fails",
+      "version_tag": "(Humbled Fast)",
+      "audio_hook": {
+        "stem": "public/audio/stems/fail_buzzer.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 35,
+        "duck_native_volume": 0.2
+      },
+      "timing_rules": {
+        "buildup_seconds": 4.0,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.8
+      },
+      "harvester": {
+        "primary_queries": [
+          "early celebrator countered instantly shorts",
+          "showboater getting knocked down shorts",
+          "taunting opponent instant karma shorts"
+        ],
+        "fallback_queries": [
+          "taunting boxer gets countered instant knockout",
+          "racing premature celebration lost at line"
+        ],
+        "strict_visual_requirements": "Premature celebration or taunting that leads directly to instant counter."
+      }
+    },
+    "pets_being_dumb": {
+      "niche": "funny_animals",
+      "name": "Dogs Being Clumsy",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Clumsy Dog Moments",
+      "version_tag": "(Dog Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cartoon_slip.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 30,
+        "duck_native_volume": 0.3
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.0,
+        "freeze_seconds": 1.0,
+        "aftermath_seconds": 1.8
+      },
+      "harvester": {
+        "primary_queries": [
+          "dog runs into glass door shorts",
+          "dog slips hardwood floor fail shorts",
+          "dog jump fail funny shorts",
+          "dog sliding glass door funny shorts"
+        ],
+        "fallback_queries": [
+          "golden retriever slips on ice funny",
+          "puppy miscalculates couch jump fail"
+        ],
+        "strict_visual_requirements": "Real dog running into sliding glass door or slipping on hardwood floor."
+      }
+    },
+    "pets_being_smart": {
+      "niche": "funny_animals",
+      "name": "Pets Being Smart",
+      "title_header": "Ranking Smartest",
+      "subject_header": "Genius Pet Moments",
+      "version_tag": "(200 IQ Pets)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_impact",
+        "freeze_frames": 25,
+        "duck_native_volume": 0.3
+      },
+      "timing_rules": {
+        "buildup_seconds": 4.0,
+        "freeze_seconds": 0.8,
+        "aftermath_seconds": 2.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "dog opens door latch smart shorts",
+          "cat unlocks cage latch tool shorts",
+          "smart dog solving puzzle escape shorts"
+        ],
+        "fallback_queries": [
+          "cat opens door handle smart",
+          "dog unlatches gate escape clever"
+        ],
+        "strict_visual_requirements": "Animals opening doors, unlocking latches, or manipulating tools."
+      }
+    },
+    "animal_funny_moments": {
+      "niche": "funny_animals",
+      "name": "Animal Funny Moments",
+      "title_header": "Ranking Best Of",
+      "subject_header": "Animal Chaos Moments",
+      "version_tag": "(Chaos Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cartoon_slip.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 30,
+        "duck_native_volume": 0.3
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.0,
+        "aftermath_seconds": 1.5
+      },
+      "harvester": {
+        "primary_queries": [
+          "cat zoomies wipeout funny shorts",
+          "dog chaotic slide living room shorts",
+          "funny animal crash blooper shorts"
+        ],
+        "fallback_queries": [
+          "cat drifts on rug into wall",
+          "dog zoomies drift fail funny"
+        ],
+        "strict_visual_requirements": "Unpredictable domestic pet chaos and zoomie wipeouts."
+      }
+    },
+    "pets_in_slow_motion": {
+      "niche": "funny_animals",
+      "name": "Pets In Slow Motion",
+      "title_header": "Ranking The Best",
+      "subject_header": "Pets In Slow Motion",
+      "version_tag": "(Slow Mo Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 40,
+        "duck_native_volume": 0.2
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.0,
+        "freeze_seconds": 1.5,
+        "aftermath_seconds": 1.5
+      },
+      "harvester": {
+        "primary_queries": [
+          "dog catching treat slow motion fail shorts",
+          "cat leaping awkward paws slow motion shorts",
+          "pet slow motion face distortion shorts"
+        ],
+        "fallback_queries": [
+          "golden retriever treat catch slow mo fail",
+          "cat jump fail slow motion"
+        ],
+        "strict_visual_requirements": "Facial distortion and awkward paws during mid-air leaps."
+      }
+    },
+    "animals_becoming_scarier": {
+      "niche": "funny_animals",
+      "name": "Animals Becoming Scarier",
+      "title_header": "Ranking Craziest",
+      "subject_header": "Uncanny Animal Moments",
+      "version_tag": "(Eerie Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/record_scratch.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 35,
+        "duck_native_volume": 0.2
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.8
+      },
+      "harvester": {
+        "primary_queries": [
+          "dog walks on hind legs eerie shorts",
+          "cat sudden intense stare standing up shorts",
+          "uncanny animal standing on two legs shorts"
+        ],
+        "fallback_queries": [
+          "dog walks like human standing up eerie",
+          "cat stands on two legs staring into soul"
+        ],
+        "strict_visual_requirements": "Sudden stare-downs, hind-leg walks, or uncharacteristic behavior."
+      }
+    },
+    "ice_driveway_slides": {
+      "niche": "nature_weather",
+      "name": "Ice Driveway Slides",
+      "title_header": "Ranking Best Of",
+      "subject_header": "Ice Driveway Slides",
+      "version_tag": "(Icy Slopes)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.2
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 2.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "uncontrollable slide down frozen driveway ice shorts",
+          "person sliding down icy driveway helplessly shorts",
+          "frozen driveway slide fail funny shorts"
+        ],
+        "fallback_queries": [
+          "steep driveway ice slide fail cctv",
+          "trash can icy driveway slide slip"
+        ],
+        "strict_visual_requirements": "Uncontrollable slides down frozen driveways captured on CCTV or phone."
+      }
+    },
+    "sudden_wind_ruining_events": {
+      "niche": "nature_weather",
+      "name": "Sudden Wind Ruining Events",
+      "title_header": "Ranking The Worst",
+      "subject_header": "Wind Ruined Moments",
+      "version_tag": "(Storm Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cartoon_slip.mp3",
+        "trigger_timing": "at_impact",
+        "freeze_frames": 25,
+        "duck_native_volume": 0.3
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.0,
+        "freeze_seconds": 0.8,
+        "aftermath_seconds": 2.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "sudden wind gusts umbrella inside out shorts",
+          "bounce house canopy blown away wind storm shorts",
+          "gust of wind tent umbrella blown away shorts"
+        ],
+        "fallback_queries": [
+          "canopy blown away backyard wind",
+          "patio umbrella flies away wind gust"
+        ],
+        "strict_visual_requirements": "Canopies, bounce houses, or umbrellas blown away by sudden gusts."
+      }
+    },
+    "rogue_waves": {
+      "niche": "nature_weather",
+      "name": "Rogue Waves",
+      "title_header": "Ranking Best Of",
+      "subject_header": "Beach Sneak Waves",
+      "version_tag": "(Wave Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 35,
+        "duck_native_volume": 0.2
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 2.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "rogue wave washes away beach chairs towels shorts",
+          "shoreline surge surprise beachgoers soaked shorts",
+          "unexpected ocean wave sweeps beach chairs shorts"
+        ],
+        "fallback_queries": [
+          "sneaker wave beach chairs washed away",
+          "high tide surprise beach picnic wave"
+        ],
+        "strict_visual_requirements": "Shoreline surges washing beach chairs, towels, or sunbathers out."
+      }
+    },
+    "wildlife_close_calls": {
+      "niche": "nature_weather",
+      "name": "Wildlife Close Calls",
+      "title_header": "Ranking Craziest",
+      "subject_header": "Wildlife Close Calls",
+      "version_tag": "(Tourist Encounters)",
+      "audio_hook": {
+        "stem": "public/audio/stems/record_scratch.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 30,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 4.0,
+        "freeze_seconds": 1.0,
+        "aftermath_seconds": 1.8
+      },
+      "harvester": {
+        "primary_queries": [
+          "wildlife close call tourist bear moose outdoor shorts",
+          "animal approaches campsite tourist close call shorts",
+          "wild animal surprise encounter camera shorts"
+        ],
+        "fallback_queries": [
+          "bear approaches campsite porch close call",
+          "bison walks past tourists yellowstone"
+        ],
+        "strict_visual_requirements": "Real animal approaching outdoor tourists or porches unexpectedly."
+      }
+    },
+    "lightning_jump_scares": {
+      "niche": "nature_weather",
+      "name": "Lightning Jump Scares",
+      "title_header": "Ranking The Best",
+      "subject_header": "Lightning Jump Scares",
+      "version_tag": "(Thunder Shock)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_impact",
+        "freeze_frames": 25,
+        "duck_native_volume": 0.2
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.0,
+        "freeze_seconds": 0.8,
+        "aftermath_seconds": 1.8
+      },
+      "harvester": {
+        "primary_queries": [
+          "nearby lightning strike jump scare security camera shorts",
+          "lightning strikes tree next to house camera scream shorts",
+          "close lightning strike security camera thunder shorts"
+        ],
+        "fallback_queries": [
+          "lightning strike tree backyard ring camera",
+          "close lightning strike storm phone video scream"
+        ],
+        "strict_visual_requirements": "Nearby lightning strike captured on home security or phone video."
+      }
+    },
+    "one_million_aura_loss": {
+      "niche": "aura_debt",
+      "name": "-1,000,000 Aura Moments",
+      "title_header": "Ranking The Worst",
+      "subject_header": "-1,000,000 Aura Moments",
+      "version_tag": "(Aura Loss)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "trying to look cool slipping entrance shorts",
+          "smooth swagger immediate fail shorts"
+        ],
+        "fallback_queries": [
+          "trying to look cool slipping entrance cctv",
+          "smooth swagger immediate fail cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting -1,000,000 Aura Moments."
+      }
+    },
+    "failed_swagger_poses": {
+      "niche": "aura_debt",
+      "name": "Failed Swagger Moments",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Failed Swagger Moments",
+      "version_tag": "(Swagger Fails)",
+      "audio_hook": {
+        "stem": "public/audio/stems/fail_buzzer.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "sunglasses falling off cool pose shorts",
+          "slipping out of sports car fail shorts"
+        ],
+        "fallback_queries": [
+          "sunglasses falling off cool pose cctv",
+          "slipping out of sports car fail cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Failed Swagger Moments."
+      }
+    },
+    "left_hanging_public": {
+      "niche": "aura_debt",
+      "name": "Left Hanging Moments",
+      "title_header": "Ranking The Most",
+      "subject_header": "Left Hanging Moments",
+      "version_tag": "(Awkward Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/record_scratch.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "handshake ignored broadcast live tv shorts",
+          "left hanging stage high five miss shorts"
+        ],
+        "fallback_queries": [
+          "handshake ignored broadcast live tv cctv",
+          "left hanging stage high five miss cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Left Hanging Moments."
+      }
+    },
+    "luxury_flexes_backfiring": {
+      "niche": "aura_debt",
+      "name": "Luxury Flexes Fails",
+      "title_header": "Ranking The Best",
+      "subject_header": "Luxury Flexes Fails",
+      "version_tag": "(Expensive Mistakes)",
+      "audio_hook": {
+        "stem": "public/audio/stems/fail_buzzer.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "expensive car stunt fails immediate regret shorts",
+          "luxury watch flex dropped water shorts"
+        ],
+        "fallback_queries": [
+          "expensive car stunt fails immediate regret cctv",
+          "luxury watch flex dropped water cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Luxury Flexes Fails."
+      }
+    },
+    "adults_humbled_by_kids": {
+      "niche": "aura_debt",
+      "name": "Adults Humbled By Kids",
+      "title_header": "Ranking The Funniest",
+      "subject_header": "Adults Humbled By Kids",
+      "version_tag": "(Humbling Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "adult losing sports challenge kid shorts",
+          "dad humbled by toddler physical game shorts"
+        ],
+        "fallback_queries": [
+          "adult losing sports challenge kid cctv",
+          "dad humbled by toddler physical game cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Adults Humbled By Kids."
+      }
+    },
+    "athletes_celebrating_too_early": {
+      "niche": "sports_bloopers",
+      "name": "Early Celebrations",
+      "title_header": "Ranking The Worst",
+      "subject_header": "Early Celebrations",
+      "version_tag": "(Don't Celebrate Yet)",
+      "audio_hook": {
+        "stem": "public/audio/stems/fail_buzzer.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "runner celebrates early loses at finish line shorts",
+          "cycling premature celebration lost shorts"
+        ],
+        "fallback_queries": [
+          "runner celebrates early loses at finish line cctv",
+          "cycling premature celebration lost cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Early Celebrations."
+      }
+    },
+    "trickshot_disasters": {
+      "niche": "sports_bloopers",
+      "name": "Trickshot Disasters",
+      "title_header": "Ranking Craziest",
+      "subject_header": "Trickshot Disasters",
+      "version_tag": "(Disaster Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/glass_shatter.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "trickshot breaks tv window fail shorts",
+          "ping pong trickshot breaks lamp shorts"
+        ],
+        "fallback_queries": [
+          "trickshot breaks tv window fail cctv",
+          "ping pong trickshot breaks lamp cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Trickshot Disasters."
+      }
+    },
+    "goalkeeper_brainfades": {
+      "niche": "sports_bloopers",
+      "name": "Goalkeeper Brainfades",
+      "title_header": "Ranking The Worst",
+      "subject_header": "Goalkeeper Brainfades",
+      "version_tag": "(Goalie Blunders)",
+      "audio_hook": {
+        "stem": "public/audio/stems/fail_buzzer.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "goalkeeper drops routine catch own goal shorts",
+          "soccer goalkeeper brainfade blunder shorts"
+        ],
+        "fallback_queries": [
+          "goalkeeper drops routine catch own goal cctv",
+          "soccer goalkeeper brainfade blunder cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Goalkeeper Brainfades."
+      }
+    },
+    "gymnast_routine_mishaps": {
+      "niche": "sports_bloopers",
+      "name": "Gymnast Mishap Moments",
+      "title_header": "Ranking Best Of",
+      "subject_header": "Gymnast Mishap Moments",
+      "version_tag": "(Landing Fails)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cartoon_slip.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "gymnast balance beam slip mat shorts",
+          "vault landing slides into mats fail shorts"
+        ],
+        "fallback_queries": [
+          "gymnast balance beam slip mat cctv",
+          "vault landing slides into mats fail cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Gymnast Mishap Moments."
+      }
+    },
+    "referee_collisions": {
+      "niche": "sports_bloopers",
+      "name": "Referee Collisions",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Referee Collisions",
+      "version_tag": "(Ref Fails)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "referee collision knocked down player shorts",
+          "umpire obstructed by player collision shorts"
+        ],
+        "fallback_queries": [
+          "referee collision knocked down player cctv",
+          "umpire obstructed by player collision cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Referee Collisions."
+      }
+    },
+    "unrendered_game_npcs": {
+      "niche": "npc_glitches",
+      "name": "Real-Life NPC Glitches",
+      "title_header": "Ranking Craziest",
+      "subject_header": "Real-Life NPC Glitches",
+      "version_tag": "(Matrix Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/record_scratch.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "person t pose rigid public real life shorts",
+          "blank stare motionless stranger public shorts"
+        ],
+        "fallback_queries": [
+          "person t pose rigid public real life cctv",
+          "blank stare motionless stranger public cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Real-Life NPC Glitches."
+      }
+    },
+    "dialogue_loop_real_life": {
+      "niche": "npc_glitches",
+      "name": "Real-Life Dialogue Loops",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Real-Life Dialogue Loops",
+      "version_tag": "(Looping NPCs)",
+      "audio_hook": {
+        "stem": "public/audio/stems/record_scratch.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "person repeating gestures compulsive loop shorts",
+          "real life dialogue loop glitch shorts"
+        ],
+        "fallback_queries": [
+          "person repeating gestures compulsive loop cctv",
+          "real life dialogue loop glitch cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Real-Life Dialogue Loops."
+      }
+    },
+    "pathfinding_ai_broken": {
+      "niche": "npc_glitches",
+      "name": "Broken Pathfinding NPCs",
+      "title_header": "Ranking The Best",
+      "subject_header": "Broken Pathfinding NPCs",
+      "version_tag": "(Glitch Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cartoon_slip.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "person walks into glass obstacle repeatedly shorts",
+          "pathfinding broken walking into barrier shorts"
+        ],
+        "fallback_queries": [
+          "person walks into glass obstacle repeatedly cctv",
+          "pathfinding broken walking into barrier cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Broken Pathfinding NPCs."
+      }
+    },
+    "object_collision_fails": {
+      "niche": "npc_glitches",
+      "name": "Object Collision Fails",
+      "title_header": "Ranking The Most",
+      "subject_header": "Object Collision Fails",
+      "version_tag": "(Physics Broken)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "person drops item hand collision fail shorts",
+          "object drops through hands glitch shorts"
+        ],
+        "fallback_queries": [
+          "person drops item hand collision fail cctv",
+          "object drops through hands glitch cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Object Collision Fails."
+      }
+    },
+    "npc_idle_animations": {
+      "niche": "npc_glitches",
+      "name": "Synchronized NPCs",
+      "title_header": "Ranking Craziest",
+      "subject_header": "Synchronized NPCs",
+      "version_tag": "(Matrix Glitches)",
+      "audio_hook": {
+        "stem": "public/audio/stems/record_scratch.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "synchronized unacquainted strangers public shorts",
+          "strangers moving in identical cadence glitch shorts"
+        ],
+        "fallback_queries": [
+          "synchronized unacquainted strangers public cctv",
+          "strangers moving in identical cadence glitch cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Synchronized NPCs."
+      }
+    },
+    "worst_shift_ever": {
+      "niche": "workplace_disasters",
+      "name": "Worst Shift Moments",
+      "title_header": "Ranking The Worst",
+      "subject_header": "Worst Shift Moments",
+      "version_tag": "(Disaster At Work)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "worker spills bulk paint commercial warehouse shorts",
+          "dropping huge milk flour pallet shift shorts"
+        ],
+        "fallback_queries": [
+          "worker spills bulk paint commercial warehouse cctv",
+          "dropping huge milk flour pallet shift cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Worst Shift Moments."
+      }
+    },
+    "forklift_domino_disasters": {
+      "niche": "workplace_disasters",
+      "name": "Forklift Domino Fails",
+      "title_header": "Ranking Craziest",
+      "subject_header": "Forklift Domino Fails",
+      "version_tag": "(Warehouse Collapse)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "forklift bumps warehouse rack collapse domino shorts",
+          "warehouse racks collapsing forklift accident shorts"
+        ],
+        "fallback_queries": [
+          "forklift bumps warehouse rack collapse domino cctv",
+          "warehouse racks collapsing forklift accident cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Forklift Domino Fails."
+      }
+    },
+    "commercial_kitchen_nightmares": {
+      "niche": "workplace_disasters",
+      "name": "Commercial Kitchen Fails",
+      "title_header": "Ranking The Worst",
+      "subject_header": "Commercial Kitchen Fails",
+      "version_tag": "(Kitchen Disasters)",
+      "audio_hook": {
+        "stem": "public/audio/stems/glass_shatter.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "dropping massive soup vat commercial kitchen shorts",
+          "chef dropping multi tier wedding cake disaster shorts"
+        ],
+        "fallback_queries": [
+          "dropping massive soup vat commercial kitchen cctv",
+          "chef dropping multi tier wedding cake disaster cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Commercial Kitchen Fails."
+      }
+    },
+    "retail_display_rampage": {
+      "niche": "workplace_disasters",
+      "name": "Retail Display Collapses",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Retail Display Collapses",
+      "version_tag": "(Aisle 4 Version)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cartoon_slip.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "knocking over display pyramid supermarket shorts",
+          "store can pyramid collapse accident shorts"
+        ],
+        "fallback_queries": [
+          "knocking over display pyramid supermarket cctv",
+          "store can pyramid collapse accident cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Retail Display Collapses."
+      }
+    },
+    "delivery_driver_mishaps": {
+      "niche": "workplace_disasters",
+      "name": "Delivery Driver Slips",
+      "title_header": "Ranking Best Of",
+      "subject_header": "Delivery Driver Slips",
+      "version_tag": "(Porch Glides)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "delivery driver slides down icy driveway shorts",
+          "delivery driver falls on icy porch slip shorts"
+        ],
+        "fallback_queries": [
+          "delivery driver slides down icy driveway cctv",
+          "delivery driver falls on icy porch slip cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Delivery Driver Slips."
+      }
+    },
+    "used_all_luck_for_life": {
+      "niche": "extreme_luck",
+      "name": "Used All Luck For Life",
+      "title_header": "Ranking The Most",
+      "subject_header": "Used All Luck For Life",
+      "version_tag": "(Near Misses)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "close call evasion falling tree vehicle inches shorts",
+          "pedestrian narrowly avoids falling object inches shorts"
+        ],
+        "fallback_queries": [
+          "close call evasion falling tree vehicle inches cctv",
+          "pedestrian narrowly avoids falling object inches cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Used All Luck For Life."
+      }
+    },
+    "accidental_trickshots": {
+      "niche": "extreme_luck",
+      "name": "Accidental Trickshots",
+      "title_header": "Ranking Smartest",
+      "subject_header": "Accidental Trickshots",
+      "version_tag": "(100% Calculated)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "dropped item bounces into cup upright shorts",
+          "accidental trickshot landing bottle cup shorts"
+        ],
+        "fallback_queries": [
+          "dropped item bounces into cup upright cctv",
+          "accidental trickshot landing bottle cup cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Accidental Trickshots."
+      }
+    },
+    "physics_defying_saves": {
+      "niche": "extreme_luck",
+      "name": "Physics-Defying Saves",
+      "title_header": "Ranking The Best",
+      "subject_header": "Physics-Defying Saves",
+      "version_tag": "(Miracle Saves)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "ejected rider lands on feet motorcycle bicycle shorts",
+          "skater ejected lands on feet physics defying shorts"
+        ],
+        "fallback_queries": [
+          "ejected rider lands on feet motorcycle bicycle cctv",
+          "skater ejected lands on feet physics defying cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Physics-Defying Saves."
+      }
+    },
+    "unintentional_hero_catches": {
+      "niche": "extreme_luck",
+      "name": "Dad Reflex Catches",
+      "title_header": "Ranking Craziest",
+      "subject_header": "Dad Reflex Catches",
+      "version_tag": "(Dad Reflexes)",
+      "audio_hook": {
+        "stem": "public/audio/stems/skyfall_this_is_the_end.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 36,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 1.2,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "blind catch falling phone beverage infant shorts",
+          "dad reflex blind catch falling item shorts"
+        ],
+        "fallback_queries": [
+          "blind catch falling phone beverage infant cctv",
+          "dad reflex blind catch falling item cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Dad Reflex Catches."
+      }
+    },
+    "vehicle_360_recoveries": {
+      "niche": "extreme_luck",
+      "name": "Vehicle 360 Recoveries",
+      "title_header": "Ranking The Best",
+      "subject_header": "Vehicle 360 Recoveries",
+      "version_tag": "(Clean 360s)",
+      "audio_hook": {
+        "stem": "public/audio/stems/siren_short.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "highway complete 360 spinout continues unharmed shorts",
+          "car 360 spin recover in lane dashcam shorts"
+        ],
+        "fallback_queries": [
+          "highway complete 360 spinout continues unharmed cctv",
+          "car 360 spin recover in lane dashcam cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Vehicle 360 Recoveries."
+      }
+    },
+    "bench_press_ego_fails": {
+      "niche": "gym_bloopers",
+      "name": "Bench Press Ego Fails",
+      "title_header": "Ranking The Worst",
+      "subject_header": "Bench Press Ego Fails",
+      "version_tag": "(Ego Lifting)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "bench press overloaded bar pins lifter fail shorts",
+          "lifter dumps plates bench press ego fail shorts"
+        ],
+        "fallback_queries": [
+          "bench press overloaded bar pins lifter fail cctv",
+          "lifter dumps plates bench press ego fail cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Bench Press Ego Fails."
+      }
+    },
+    "treadmill_slingshots": {
+      "niche": "gym_bloopers",
+      "name": "Treadmill Slingshots",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Treadmill Slingshots",
+      "version_tag": "(Max Speed Ejection)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cartoon_slip.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "excessive treadmill speed launches runner backward shorts",
+          "treadmill slingshot gym fail funny shorts"
+        ],
+        "fallback_queries": [
+          "excessive treadmill speed launches runner backward cctv",
+          "treadmill slingshot gym fail funny cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Treadmill Slingshots."
+      }
+    },
+    "squat_rack_blunders": {
+      "niche": "gym_bloopers",
+      "name": "Squat Rack Blunders",
+      "title_header": "Ranking The Best",
+      "subject_header": "Squat Rack Blunders",
+      "version_tag": "(Bail Fails)",
+      "audio_hook": {
+        "stem": "public/audio/stems/thud_whack.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "squat rack lifter dumps bar on safeties shorts",
+          "unable to stand up heavy squat bail fail shorts"
+        ],
+        "fallback_queries": [
+          "squat rack lifter dumps bar on safeties cctv",
+          "unable to stand up heavy squat bail fail cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Squat Rack Blunders."
+      }
+    },
+    "equipment_misuse": {
+      "niche": "gym_bloopers",
+      "name": "Gym Equipment Misuse",
+      "title_header": "Ranking Funniest",
+      "subject_header": "Gym Equipment Misuse",
+      "version_tag": "(Wrong Exercises)",
+      "audio_hook": {
+        "stem": "public/audio/stems/record_scratch.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "using gym machine backwards hilarious shorts",
+          "inverted cable machine gym misuse blooper shorts"
+        ],
+        "fallback_queries": [
+          "using gym machine backwards hilarious cctv",
+          "inverted cable machine gym misuse blooper cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Gym Equipment Misuse."
+      }
+    },
+    "spotter_distracted": {
+      "niche": "gym_bloopers",
+      "name": "Distracted Spotter Moments",
+      "title_header": "Ranking The Worst",
+      "subject_header": "Distracted Spotter Moments",
+      "version_tag": "(One Job)",
+      "audio_hook": {
+        "stem": "public/audio/stems/fail_buzzer.mp3",
+        "trigger_timing": "at_climax_freeze",
+        "freeze_frames": 28,
+        "duck_native_volume": 0.25
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.9,
+        "aftermath_seconds": 1.6
+      },
+      "harvester": {
+        "primary_queries": [
+          "spotter looks away lifter misses rack shorts",
+          "distracted gym spotter fail missed bar shorts"
+        ],
+        "fallback_queries": [
+          "spotter looks away lifter misses rack cctv",
+          "distracted gym spotter fail missed bar cctv"
+        ],
+        "strict_visual_requirements": "Real unedited footage depicting Distracted Spotter Moments."
+      }
+    },
+    "crush_confession_reactions": {
+      "niche": "wholesome_romance",
+      "name": "Crush Confession Reactions",
+      "title_header": "Ranking Cutest",
+      "subject_header": "Crush Confession Reactions",
+      "version_tag": "(Heart Racing Edition)",
+      "audio_hook": {
+        "stem": "public/audio/stems/crush_confession_reactions_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 3.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "crush confession reaction shorts",
+          "telling my crush i like them reaction shorts"
+        ],
+        "fallback_queries": [
+          "confessing to crush caught on camera",
+          "wholesome crush confession reaction"
+        ],
+        "strict_visual_requirements": "Real genuine footage showing the buildup, confession, and authentic emotional reaction."
+      }
+    },
+    "unexpected_proposal_moments": {
+      "niche": "wholesome_romance",
+      "name": "Unexpected Proposal Moments",
+      "title_header": "Ranking Best",
+      "subject_header": "Surprise Proposal Moments",
+      "version_tag": "(Tears Of Joy)",
+      "audio_hook": {
+        "stem": "public/audio/stems/unexpected_proposal_moments_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 3.5
+      },
+      "harvester": {
+        "primary_queries": [
+          "surprise marriage proposal reaction shorts",
+          "unexpected proposal caught on camera shorts"
+        ],
+        "fallback_queries": [
+          "emotional proposal reaction public",
+          "best surprise proposal moments"
+        ],
+        "strict_visual_requirements": "Real unedited footage capturing the surprise setup, dropping to one knee, and emotional yes reaction."
+      }
+    },
+    "secret_admirer_reveals": {
+      "niche": "wholesome_romance",
+      "name": "Secret Admirer Reveals",
+      "title_header": "Ranking Sweetest",
+      "subject_header": "Secret Admirer Reveals",
+      "version_tag": "(Plot Twist Edition)",
+      "audio_hook": {
+        "stem": "public/audio/stems/secret_admirer_reveals_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 3.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "secret admirer reveal reaction shorts",
+          "secret crush revealed caught on camera shorts"
+        ],
+        "fallback_queries": [
+          "surprising crush with flowers reaction",
+          "secret admirer gift reaction"
+        ],
+        "strict_visual_requirements": "Real footage showing a secret admirer reveal or anonymous romantic surprise with genuine reaction."
+      }
+    },
+    "couple_pranks_gone_wholesome": {
+      "niche": "wholesome_romance",
+      "name": "Couple Pranks Gone Wholesome",
+      "title_header": "Ranking Cutest",
+      "subject_header": "Wholesome Couple Moments",
+      "version_tag": "(Pure Love Edition)",
+      "audio_hook": {
+        "stem": "public/audio/stems/couple_pranks_gone_wholesome_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 2.5
+      },
+      "harvester": {
+        "primary_queries": [
+          "couple prank cute reaction shorts",
+          "wholesome couple prank turned sweet shorts"
+        ],
+        "fallback_queries": [
+          "boyfriend girlfriend cute reaction",
+          "swerving kisses prank cute reaction"
+        ],
+        "strict_visual_requirements": "Real couple footage where a playful prank turns into an adorable wholesome reaction."
+      }
+    },
+    "long_distance_reunions": {
+      "niche": "wholesome_romance",
+      "name": "Long Distance Reunions",
+      "title_header": "Ranking Emotional",
+      "subject_header": "Long Distance Reunions",
+      "version_tag": "(Worth The Wait)",
+      "audio_hook": {
+        "stem": "public/audio/stems/long_distance_reunions_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.0,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 4.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "long distance relationship surprise reunion shorts",
+          "airport surprise reunion couple emotional shorts"
+        ],
+        "fallback_queries": [
+          "long distance couple meeting first time",
+          "surprise airport reunion tears"
+        ],
+        "strict_visual_requirements": "Real airport/doorstep reunion showing the moment of recognition, run, and emotional embrace."
+      }
+    },
+    "friendzone_escapes": {
+      "niche": "wholesome_romance",
+      "name": "Friendzone Escapes",
+      "title_header": "Ranking Greatest",
+      "subject_header": "Friendzone Escapes",
+      "version_tag": "(W Moment)",
+      "audio_hook": {
+        "stem": "public/audio/stems/friendzone_escapes_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 3.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "escaping the friendzone caught on camera shorts",
+          "best friend confession turns into kiss shorts"
+        ],
+        "fallback_queries": [
+          "confessing feelings to best friend reaction",
+          "friendzone escape reaction"
+        ],
+        "strict_visual_requirements": "Real footage showing an awkward or bold confession to a close friend resulting in a happy romantic turnaround."
+      }
+    },
+    "public_love_confessions": {
+      "niche": "wholesome_romance",
+      "name": "Public Love Confessions",
+      "title_header": "Ranking Boldest",
+      "subject_header": "Public Love Confessions",
+      "version_tag": "(Zero Fear Edition)",
+      "audio_hook": {
+        "stem": "public/audio/stems/public_love_confessions_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 3.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "public love confession reaction shorts",
+          "asking crush out in public caught on camera shorts"
+        ],
+        "fallback_queries": [
+          "asking girl out in public wholesome",
+          "public promposal or confession reaction"
+        ],
+        "strict_visual_requirements": "Real public confession with crowd/bystander energy, clear ask, and genuine reaction."
+      }
+    },
+    "cute_first_date_moments": {
+      "niche": "wholesome_romance",
+      "name": "Cute First Date Moments",
+      "title_header": "Ranking Sweetest",
+      "subject_header": "First Date Moments",
+      "version_tag": "(Pure Chemistry)",
+      "audio_hook": {
+        "stem": "public/audio/stems/cute_first_date_moments_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 2.5
+      },
+      "harvester": {
+        "primary_queries": [
+          "cute first date awkward sweet shorts",
+          "wholesome first date chemistry caught on camera shorts"
+        ],
+        "fallback_queries": [
+          "sweet first date flowers reaction",
+          "cute blind date instant chemistry"
+        ],
+        "strict_visual_requirements": "Real candid first-date interaction showing shyness, flowers/gestures, and genuine smiles."
+      }
+    },
+    "husband_wife_wholesome_surprises": {
+      "niche": "wholesome_romance",
+      "name": "Husband Wife Surprises",
+      "title_header": "Ranking Best",
+      "subject_header": "Couple Surprise Reactions",
+      "version_tag": "(Relationship Goals)",
+      "audio_hook": {
+        "stem": "public/audio/stems/husband_wife_wholesome_surprises_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.5,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 3.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "wholesome couple surprise reaction shorts",
+          "boyfriend surprises girlfriend emotional shorts"
+        ],
+        "fallback_queries": [
+          "husband surprises wife emotional reaction",
+          "surprising partner with dream gift reaction"
+        ],
+        "strict_visual_requirements": "Real surprise gift or gesture between partners with authentic emotional joy."
+      }
+    },
+    "love_at_first_sight_caught": {
+      "niche": "wholesome_romance",
+      "name": "Love At First Sight Moments",
+      "title_header": "Ranking Purest",
+      "subject_header": "Love At First Sight",
+      "version_tag": "(Real Life Movie)",
+      "audio_hook": {
+        "stem": "public/audio/stems/love_at_first_sight_caught_music_bed.mp3",
+        "trigger_timing": "continuous_low_bed",
+        "freeze_frames": 0,
+        "duck_native_volume": 1.0
+      },
+      "timing_rules": {
+        "buildup_seconds": 3.0,
+        "freeze_seconds": 0.0,
+        "aftermath_seconds": 3.0
+      },
+      "harvester": {
+        "primary_queries": [
+          "love at first sight caught on camera shorts",
+          "cute stranger eye contact smile caught on camera shorts"
+        ],
+        "fallback_queries": [
+          "groom sees bride first time emotional",
+          "strangers smiling at each other wholesome"
+        ],
+        "strict_visual_requirements": "Real candid moment of instant attraction, first-look awe, or mutual smile caught on camera."
+      }
+    }
+  }
+}

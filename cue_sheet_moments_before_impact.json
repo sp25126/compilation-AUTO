@@ -1,0 +1,33 @@
+{
+  "titleHeader": "Ranking Craziest",
+  "subjectHeader": "Moments Before Impact",
+  "versionTag": "(Seconds From Disaster)",
+  "globalAudioPath": "public/audio/stems/moments_before_impact_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/moments_before_impact/rank_5.mp4",
+      "durationInFrames": 175,
+      "subtitleText": "Level 1: She stood right under the funnel and waited for gravity 💀"
+    },
+    {
+      "videoPath": "clips/moments_before_impact/rank_4.mp4",
+      "durationInFrames": 226,
+      "subtitleText": "Level 2: Tried to saber the champagne and shattered the whole bottle 😭"
+    },
+    {
+      "videoPath": "clips/moments_before_impact/rank_3.mp4",
+      "durationInFrames": 254,
+      "subtitleText": "Level 3: The entire warehouse tower leaned over and turned into an avalanche 💀"
+    },
+    {
+      "videoPath": "clips/moments_before_impact/rank_2.mp4",
+      "durationInFrames": 272,
+      "subtitleText": "Level 4: Jumped through a literal ring of fire on skis 🔥⛷️"
+    },
+    {
+      "videoPath": "clips/moments_before_impact/rank_1.mp4",
+      "durationInFrames": 278,
+      "subtitleText": "Level 5: Poured water on a grease fire and turned the kitchen into an inferno 🔥"
+    }
+  ]
+}

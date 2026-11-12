@@ -1,0 +1,44 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Goalkeeper Brainfades",
+  "versionTag": "(Zero IQ Edition)",
+  "globalAudioPath": "public/audio/stems/goalkeeper_brainfades_music_bed.mp3",
+  "enableLogoPopupDemo": true,
+  "clips": [
+    {
+      "videoPath": "clips/goalkeeper_brainfades/rank_5.mp4",
+      "durationInFrames": 267,
+      "subtitleText": "Level 1: Routine backpass turned into a 0 IQ own goal 💀",
+      "punchlineText": "CONTROLLER DISCONNECTED",
+      "impactFrameOffset": 175
+    },
+    {
+      "videoPath": "clips/goalkeeper_brainfades/rank_4.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 2: Conceded in under 60 seconds and refused to leave the net 😭",
+      "punchlineText": "STAYED IN THE NET",
+      "impactFrameOffset": 156
+    },
+    {
+      "videoPath": "clips/goalkeeper_brainfades/rank_3.mp4",
+      "durationInFrames": 252,
+      "subtitleText": "Level 3: Celebrated the penalty save before the play was even over 🤦‍♂️",
+      "punchlineText": "CELEBRATED TOO EARLY",
+      "impactFrameOffset": 138
+    },
+    {
+      "videoPath": "clips/goalkeeper_brainfades/rank_2.mp4",
+      "durationInFrames": 270,
+      "subtitleText": "Level 4: Walked off like a hero while the ball spun back into his net 💀",
+      "punchlineText": "PHYSICS SAID NO",
+      "impactFrameOffset": 162
+    },
+    {
+      "videoPath": "clips/goalkeeper_brainfades/rank_1.mp4",
+      "durationInFrames": 270,
+      "subtitleText": "Level 5: Bro was casually hydrating inside the goal while they scored 🍼💀",
+      "punchlineText": "THIRSTY GOALKEEPER",
+      "impactFrameOffset": 162
+    }
+  ]
+}

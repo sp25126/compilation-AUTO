@@ -1,0 +1,33 @@
+{
+  "titleHeader": "Ranking Best",
+  "subjectHeader": "Surprise Proposal Moments",
+  "versionTag": "(Tears Of Joy)",
+  "globalAudioPath": "public/audio/stems/unexpected_proposal_moments_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/unexpected_proposal_moments/rank_5.mp4",
+      "durationInFrames": 254,
+      "subtitleText": "Level 1: He dropped to one knee on the beach and she literally took off running 😭💍"
+    },
+    {
+      "videoPath": "clips/unexpected_proposal_moments/rank_4.mp4",
+      "durationInFrames": 278,
+      "subtitleText": "Level 2: Pretended his metal detector found treasure and pulled out the ring 🥹✨"
+    },
+    {
+      "videoPath": "clips/unexpected_proposal_moments/rank_3.mp4",
+      "durationInFrames": 278,
+      "subtitleText": "Level 3: News reporter rushed to cover a breaking story and found her boyfriend proposing 🎤💍"
+    },
+    {
+      "videoPath": "clips/unexpected_proposal_moments/rank_2.mp4",
+      "durationInFrames": 279,
+      "subtitleText": "Level 4: Faked a basketball injury so she'd run onto the court for the surprise 🏀❤️"
+    },
+    {
+      "videoPath": "clips/unexpected_proposal_moments/rank_1.mp4",
+      "durationInFrames": 285,
+      "subtitleText": "Level 5: The exact second she realized what the note actually said 😭💍"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Pets Being Dumb Moments",
+  "versionTag": "(0 Braincells Edition)",
+  "subCategoryId": "pets_being_dumb",
+  "subCategoryName": "PETS BEING DUMB",
+  "globalAudioPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\audio\\stems\\karma_comedy_master.mp3",
+  "clips": [
+    {
+      "id": "pets_dumb_5",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\pets_dumb_5_trimmed.mp4",
+      "durationInFrames": 165
+    },
+    {
+      "id": "pets_dumb_4",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\pets_dumb_4_trimmed.mp4",
+      "durationInFrames": 240
+    },
+    {
+      "id": "pets_dumb_3",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\pets_dumb_3_trimmed.mp4",
+      "durationInFrames": 255
+    },
+    {
+      "id": "pets_dumb_2",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\pets_dumb_2_trimmed.mp4",
+      "durationInFrames": 255
+    },
+    {
+      "id": "pets_dumb_1",
+      "videoPath": "C:\\Users\\saumy\\OneDrive\\Desktop\\automation\\public\\clips\\pets_dumb_1_trimmed.mp4",
+      "durationInFrames": 210
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "titleHeader": "Ranking Greatest",
+  "subjectHeader": "Friendzone Escapes",
+  "versionTag": "(W Moment)",
+  "globalAudioPath": "public/audio/stems/friendzone_escapes_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/friendzone_escapes/rank_5.mp4",
+      "durationInFrames": 274,
+      "subtitleText": "Level 1: Confessed over a candlelit NYC dinner and got the warmest street hug 🕯️❤️"
+    },
+    {
+      "videoPath": "clips/friendzone_escapes/rank_4.mp4",
+      "durationInFrames": 274,
+      "subtitleText": "Level 2: Asked his crush on the beach at night and she said \"I have been and I will be\" 🌙✨"
+    },
+    {
+      "videoPath": "clips/friendzone_escapes/rank_3.mp4",
+      "durationInFrames": 274,
+      "subtitleText": "Level 3: Surprised his best friend with roses and a lightbox asking to be her boyfriend 🌹🥹"
+    },
+    {
+      "videoPath": "clips/friendzone_escapes/rank_2.mp4",
+      "durationInFrames": 281,
+      "subtitleText": "Level 4: Asked his best friend under the tree and she smiled \"You already know, it's a yes\" 🌳💘"
+    },
+    {
+      "videoPath": "clips/friendzone_escapes/rank_1.mp4",
+      "durationInFrames": 280,
+      "subtitleText": "Level 5: Admitted he loved his best friend and she pulled him in by his hoodie for a kiss 😭🔥"
+    }
+  ]
+}
