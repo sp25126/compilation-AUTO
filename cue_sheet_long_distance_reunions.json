@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Most Wholesome",
+  "subjectHeader": "Long Distance Reunions",
+  "versionTag": "(Tears Of Joy)",
+  "globalAudioPath": "public/audio/stems/long_distance_reunions_music_bed.mp3",
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/long_distance_reunions/rank_5.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 1: Soldier boyfriend surprises his waitress girlfriend at work and she drops everything 🥺✈️"
+    },
+    {
+      "videoPath": "clips/long_distance_reunions/rank_4.mp4",
+      "durationInFrames": 226,
+      "subtitleText": "Level 2: Sprinted across the airport walkway after 2 years apart and never let go 😭❤️"
+    },
+    {
+      "videoPath": "clips/long_distance_reunions/rank_3.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 3: Deployed military dad secretly returns for graduation and daughter breaks down 🎓🥹"
+    },
+    {
+      "videoPath": "clips/long_distance_reunions/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Reunited after 1 year and 10,000 miles apart and spun her straight off her feet 🌍✨"
+    },
+    {
+      "videoPath": "clips/long_distance_reunions/rank_1.mp4",
+      "durationInFrames": 256,
+      "subtitleText": "Level 5: Dropped all her luggage and leaped into his arms as he collapsed with joy 😭💖"
+    }
+  ]
+}
