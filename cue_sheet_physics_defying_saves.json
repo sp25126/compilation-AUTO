@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking The Best",
+  "subjectHeader": "Physics-Defying Saves",
+  "versionTag": "(Miracle Saves)",
+  "globalAudioPath": "public/audio/stems/physics_defying_saves_music_bed.mp3",
+  "musicVolume": 0.11,
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/physics_defying_saves/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Dad sprints and catches runaway motorbike before full collision",
+      "punchlineText": "RUNAWAY BIKE INTERCEPT",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/physics_defying_saves/rank_4.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 2: Dad catches rolling toddler mid-air with his foot while on phone",
+      "punchlineText": "BLIND FOOT SAVE",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/physics_defying_saves/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Slip and slide miracle dive saves toddler on wet river rock",
+      "punchlineText": "WATER SLIDE DIVE",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/physics_defying_saves/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: High-speed delivery rider dives to catch falling child through railing",
+      "punchlineText": "INSTINCTIVE FREEFALL DIVE",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/physics_defying_saves/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Motorcycle collision flings biker airborne and sticks a perfect landing on his feet",
+      "punchlineText": "STICK THE AIRBORNE LANDING",
+      "impactFrameOffset": 85
+    }
+  ]
+}
