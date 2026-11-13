@@ -1,0 +1,47 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Failed Swagger Moments",
+  "versionTag": "(Swagger Fails)",
+  "globalAudioPath": "public/audio/stems/failed_swagger_poses_music_bed.mp3",
+  "musicBedPath": "public/audio/stems/failed_swagger_poses_music_bed.mp3",
+  "musicVolume": 0.11,
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/failed_swagger_poses/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Martial arts squad pose collapses into pure chaos",
+      "punchlineText": "SQUAD COLLAPSE",
+      "impactFrameOffset": 150
+    },
+    {
+      "videoPath": "clips/failed_swagger_poses/rank_4.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 2: The sunglasses toss flex met instant aerodynamic karma",
+      "punchlineText": "AURA VANISHED",
+      "impactFrameOffset": 95
+    },
+    {
+      "videoPath": "clips/failed_swagger_poses/rank_3.mp4",
+      "durationInFrames": 187,
+      "subtitleText": "Level 3: Highway swagger walk turns into desperate jacket rescue",
+      "punchlineText": "SWAGGER EVAPORATED",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/failed_swagger_poses/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Trickshot swagger backfires into a green felt belly-flop",
+      "punchlineText": "TABLE WIPEOUT",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/failed_swagger_poses/rank_1.mp4",
+      "durationInFrames": 241,
+      "subtitleText": "Level 5: Historic river stairs strut turns into 20-step stomach slide",
+      "punchlineText": "MAXIMUM AURA DEBT",
+      "impactFrameOffset": 70
+    }
+  ]
+}
