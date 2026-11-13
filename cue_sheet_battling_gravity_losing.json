@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Gravity Winning Moments",
+  "versionTag": "(Balance Version)",
+  "globalAudioPath": "public/audio/stems/battling_gravity_losing_music_bed.mp3",
+  "musicVolume": 0.11,
+  "clips": [
+    {
+      "videoPath": "clips/battling_gravity_losing/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Man battles ice rink, goes full starfish on impact",
+      "punchlineText": "GRAVITY WINS",
+      "impactFrameOffset": 100
+    },
+    {
+      "videoPath": "clips/battling_gravity_losing/rank_4.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 2: Park parkour attempt — gravity disagrees entirely",
+      "punchlineText": "BALANCE LOST",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/battling_gravity_losing/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Step ladder decides it's done carrying this guy",
+      "punchlineText": "TIPPED OVER",
+      "impactFrameOffset": 120
+    },
+    {
+      "videoPath": "clips/battling_gravity_losing/rank_2.mp4",
+      "durationInFrames": 270,
+      "subtitleText": "Level 4: Office worker cascades entire shelf unit in slow horror",
+      "punchlineText": "DOMINO MODE",
+      "impactFrameOffset": 135
+    },
+    {
+      "videoPath": "clips/battling_gravity_losing/rank_1.mp4",
+      "durationInFrames": 270,
+      "subtitleText": "Level 5: Scaffold aerial — Nest cam captures peak gravity humiliation",
+      "punchlineText": "GRAVITY GRANDMASTER",
+      "impactFrameOffset": 150
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
