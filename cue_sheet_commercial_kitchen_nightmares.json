@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "COMMERCIAL KITCHEN NIGHTMARES",
+  "versionTag": "(Worst Shift Edition)",
+  "globalAudioPath": "public/audio/stems/commercial_kitchen_nightmares_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/commercial_kitchen_nightmares/rank_5.mp4",
+      "durationInFrames": 234,
+      "subtitleText": "Level 1: 8-pint heavy tray cascade collapse",
+      "punchlineText": "8-PINT CASCADE",
+      "impactFrameOffset": 140
+    },
+    {
+      "videoPath": "clips/commercial_kitchen_nightmares/rank_4.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 2: Full table dinner order tray disaster",
+      "punchlineText": "DINNER SPLATTER",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/commercial_kitchen_nightmares/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Line cook airborne grease slip",
+      "punchlineText": "GREASE SLIP",
+      "impactFrameOffset": 100
+    },
+    {
+      "videoPath": "clips/commercial_kitchen_nightmares/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Multi-box takeout tower explosion",
+      "punchlineText": "TAKEOUT COLLAPSE",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/commercial_kitchen_nightmares/rank_1.mp4",
+      "durationInFrames": 255,
+      "subtitleText": "Level 5: Giant vat red soup tidal wave collapse",
+      "punchlineText": "SOUP TSUNAMI",
+      "impactFrameOffset": 100
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}

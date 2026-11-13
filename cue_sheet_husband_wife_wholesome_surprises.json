@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "HUSBAND WIFE WHOLESOME SURPRISES",
+  "versionTag": "(Heartwarming Edition)",
+  "globalAudioPath": "public/audio/stems/husband_wife_wholesome_surprises_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/husband_wife_wholesome_surprises/rank_5.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 1: Husband surprises wife with dream Iceland vacation tickets",
+      "punchlineText": "ICELAND GETAWAY",
+      "impactFrameOffset": 60
+    },
+    {
+      "videoPath": "clips/husband_wife_wholesome_surprises/rank_4.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 2: Husband sneaks tiny French bulldog puppy into bed",
+      "punchlineText": "BEDTIME PUPPY",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/husband_wife_wholesome_surprises/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Wife drops to knees in tears for Christmas golden retriever",
+      "punchlineText": "CHRISTMAS PUPPY",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/husband_wife_wholesome_surprises/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Wife hands husband positive pregnancy test",
+      "punchlineText": "GOING TO BE A DAD",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/husband_wife_wholesome_surprises/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Husband surprises wife and kids with keys to brand new dream home",
+      "punchlineText": "BRAND NEW HOME",
+      "impactFrameOffset": 90
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}

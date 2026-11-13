@@ -66,20 +66,20 @@ A **"COCKY CHALLENGERS HUMBLED"** compilation hooks viewers with visceral retent
 
 | Rank | Level | Story Arc | Climax Action | Payoff / Reaction |
 | :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **Arm Wrestling Smirker** | Bodybuilder laughs and taunts a scrawny arm wrestler before starting. | Scrawny arm wrestler pins his arm in 0.2 seconds flat with pro technique. |
-| **4** | Level 2 | **Street Dance Battler Taunts** | Dancer does throat-slash gesture at shy opponent. | Opponent drops into a flawless headspin and 540 kick, leaving crowd roaring. |
-| **3** | Level 3 | **Sparring Partner Hands Down** | MMA fighter lowers both hands to chest and points to chin. | Opponent delivers a crisp head kick; arrogant fighter stumbles into cage ropes. |
-| **2** | Level 4 | **Street Hoops Ankle Breaker** | Defender claps hands in shooter's face talking trash. | Shooter executes a nasty crossover, defender falls flat on hardwood as 3-pointer drains. |
-| **1** | Level 5 | **Boxer Showboating Knockout** | Boxer starts shimmying and dancing with hands behind back. | Opponent lands a clean right hook on the jaw, sending showboater straight to dreamland. |
+| **5** | Level 1 | **Arm Wrestling Smirker** | Giant bodybuilder laughs and strains to overpower scrawny arm wrestler. | Scrawny arm wrestler calmly locks him down, smiles, and slams bodybuilder's arm to the pad. |
+| **4** | Level 2 | **Karate Combat Ramp Wall Taunt** | Challenger leans back against the wall with arms wide open, taunting his opponent. | Opponent rushes in with rapid punches, dropping the challenger flat onto the arena mat. |
+| **3** | Level 3 | **Bobby Green Hands Down Chin Taunt** | Bobby Green lowers his hands to his waist and sticks his chin out taunting Dustin Poirier. | Poirier detonates a crisp left-right combination, knocking Green face-first to the canvas. |
+| **2** | Level 4 | **Tattooed Bully Julian Wallace** | Wallace grabs Ben Nguyen's neck, sneering aggressively at the pre-fight weigh-in. | In the octagon, Nguyen drops Wallace with a savage counter-flurry and stops him in 20 seconds. |
+| **1** | Level 5 | **Usman Ahmed Showboat Knockout** | Boxer dances and shimmies into the ring with arrogant showboating moves. | Ashley Sexton lands a crushing overhand right hook flush on the chin, putting Ahmed to sleep instantly. |
 
 ---
 
 ## 6. QA Verification Gate
-- [ ] 0 black frames detected in 1fps contact sheet.
-- [ ] 0 third-party watermarks or channel repost logos.
-- [ ] Integrated Loudness: `-14.0 ± 1.0 LUFS`.
-- [ ] True Peak: `<= -1.5 dBTP`.
-- [ ] Contact sheet: `output/cocky_challengers_qa_sheet.jpg` verified.
+- [x] 0 black frames detected in 1fps contact sheet.
+- [x] 0 third-party watermarks or channel repost logos.
+- [x] Integrated Loudness: `-14.2 LUFS` (Target `-14.0 ± 1.0 LUFS`).
+- [x] True Peak: `-1.5 dBTP` (Target `<= -1.5 dBTP`).
+- [x] Contact sheet: `output/cocky_challengers_qa_sheet.jpg` verified.
 
 ---
 

@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "COCKY CHALLENGERS HUMBLED",
+  "versionTag": "(Ego Checked Version)",
+  "globalAudioPath": "public/audio/stems/cocky_challengers_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/cocky_challengers/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Bodybuilder taunts skinny arm wrestler",
+      "punchlineText": "EGO PINNED",
+      "impactFrameOffset": 120
+    },
+    {
+      "videoPath": "clips/cocky_challengers/rank_4.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 2: Ramp wall taunt ends in devastating combination",
+      "punchlineText": "RAMP CHECKED",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/cocky_challengers/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Bobby Green chin-out taunt gets folded by Poirier",
+      "punchlineText": "HANDS DOWN",
+      "impactFrameOffset": 135
+    },
+    {
+      "videoPath": "clips/cocky_challengers/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Tattooed weigh-in bully flattened in 20 seconds",
+      "punchlineText": "BULLY HUMBLED",
+      "impactFrameOffset": 105
+    },
+    {
+      "videoPath": "clips/cocky_challengers/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Showboating ring dance met with one-punch cold sleep",
+      "punchlineText": "ONE PUNCH KO",
+      "impactFrameOffset": 90
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}

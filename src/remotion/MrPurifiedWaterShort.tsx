@@ -161,11 +161,11 @@ export const MrPurifiedWaterShort: React.FC<MrPurifiedWaterShortProps> = ({
     if (rawPath.startsWith('http://') || rawPath.startsWith('https://') || rawPath.startsWith('file:')) {
       return rawPath;
     }
-    let relative = rawPath;
-    if (relative.includes('public\\')) {
-      relative = relative.split('public\\')[1].replace(/\\/g, '/');
-    } else if (relative.includes('public/')) {
-      relative = relative.split('public/')[1];
+    let relative = rawPath.replace(/\\/g, '/');
+    if (relative.startsWith('public/')) {
+      relative = relative.slice('public/'.length);
+    } else if (relative.startsWith('/public/')) {
+      relative = relative.slice('/public/'.length);
     }
     return staticFile(relative);
   };

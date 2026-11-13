@@ -66,11 +66,11 @@ A **"COMMERCIAL KITCHEN NIGHTMARES"** compilation hooks viewers with visceral re
 
 | Rank | Level | Story Arc | Climax Action | Payoff / Reaction |
 | :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **The 50lb Flour Bag Drop** | Baker lifts 50lb sack of white flour to top shelf. | Sack tears down middle; dense white cloud covers chef and entire bakery station. |
-| **4** | Level 2 | **Fryer Oil Splash Slip** | Line cook carrying tray of fries slips on wet floor near prep table. | Fries fly across kitchen like fireworks, chef lands on rear but safely misses fryer. |
-| **3** | Level 3 | **Dish Pit Tray Tower Avalanche** | Dishwasher stacks 30 plastic tray racks onto a rolling dolly. | Dolly wheel catches drain grate; entire 8-foot tower cascades into soapy sink pit. |
-| **2** | Level 4 | **The 20-Gallon Ranch Dressing Slip** | Prep cook carrying giant industrial vat of ranch dressing across tile floor. | Steps on slick spot, slips horizontal; 20 gallons of white dressing coats entire walk-in hallway. |
-| **1** | Level 5 | **The 100-Gallon Marinara Tsunami** | Kitchen staff moving giant heated steel kettle of red pasta sauce. | Caster wheel snaps off; 100 gallons of boiling red sauce floods entire dining room entrance in a red wave. |
+| **5** | Level 1 | **8-Pint Tray Cascade Collapse** | Bartender steps out carrying massive tray of 8 full pints of beer. | Tray wobbles and flips; all 8 glasses shatter on floor while staff clutches head in disbelief. |
+| **4** | Level 2 | **Full Table Dinner Tray Splatter** | Waitress approaches restaurant booth carrying overloaded tray of hot meals. | Foot slips; entire dinner tray dumps directly onto diners' table, plates smash, patrons jump back. |
+| **3** | Level 3 | **Line Cook Airborne Grease Slip** | Line cook rushes past prep table in busy commercial line. | Steps on grease slick, legs kick high into the air, slams flat on back onto kitchen tile floor, then laughs in relief. |
+| **2** | Level 4 | **Multi-Box Takeout Tower Explosion** | Counter worker carries towering stack of white takeout boxes. | Slips violently; entire takeout tower launches into the air and coats dining floor, coworkers rush over. |
+| **1** | Level 5 | **The Giant Red Soup Tsunami** | Kitchen staff lifts and carries massive commercial vat of red soup/sauce. | Slips on wet tiles; huge red tidal wave floods prep station and floor, coworkers in shock. |
 
 ---
 

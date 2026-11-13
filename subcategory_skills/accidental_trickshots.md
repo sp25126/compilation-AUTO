@@ -22,9 +22,9 @@ frame_rate: 30.0_cfr
 
 ## 1. Core Narrative & Edit Philosophy
 A **"ACCIDENTAL TRICKSHOTS"** compilation hooks viewers with visceral retention psychology:
-- **Buildup (`0` to `T_cause`, natural audio):** Raw ambient room/environment sound builds authenticity without voiceover clutter.
-- **The Climax (`T_cause`):** Subject drops or tosses an object carelessly -> Object takes multiple improbable bounces off furniture/walls -> Lands perfectly in target with zero intentional effort.
-- **The Payoff / Reaction (`T_payoff`):** Clean emotional resolution (laughter, shock, relief, celebration).
+- **Buildup (`0` to `T_cause`, natural audio):** Raw ambient room/arena sound builds authenticity without voiceover clutter.
+- **The Climax (`T_cause`):** Subject carelessly tosses/strikes an object -> Improbable trajectory or multiple ricochets -> Lands or scores perfectly with zero intentional skill, pure 100% luck.
+- **The Payoff / Reaction (`T_payoff`):** Clean emotional resolution (stunned silence, erupting crowd laughter, disbelieving apologies, ecstatic celebrations).
 
 ---
 
@@ -49,7 +49,7 @@ A **"ACCIDENTAL TRICKSHOTS"** compilation hooks viewers with visceral retention 
 - **Compositor Engine:** Remotion `<OffthreadVideo>` in `src/remotion/MrPurifiedWaterShort.tsx`.
 - **Pre-Processing Command:** Strict 30fps CFR re-encode with dense `-g 15` keyframe interval:
   ```bash
-  ffmpeg -y -i raw_input.mp4 -vf "setpts=PTS-STARTPTS,fps=30,scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2" -c:v libx264 -pix_fmt yuv420p -r 30 -g 15 -keyint_min 15 -sc_threshold 0 -c:a aac -ar 48000 -b:a 320k normalized_clip.mp4
+  ffmpeg -y -i raw_input.mp4 -vf "setpts=PTS-STARTPTS,fps=30,scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2" -c:v libx264 -pix_fmt yuv420p -r 30 -g 15 -keyint_min 15 -sc_threshold 0 -c:a aac -ar 48000 -b:a 192k normalized_clip.mp4
   ```
 
 ---
@@ -64,22 +64,22 @@ A **"ACCIDENTAL TRICKSHOTS"** compilation hooks viewers with visceral retention 
 
 ## 5. 5-Rank Benchmark Breakdown Table
 
-| Rank | Level | Story Arc | Climax Action | Payoff / Reaction |
-| :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **Desk Pen Kick Into Holder** | Student drops pen off desk, reflex-kicks it with shoe. | Pen arcs 10 feet across classroom and drops tip-down straight into teacher's pen cup. |
-| **4** | Level 2 | **Kitchen Spatula Fumble** | Cook flips burger and loses grip on spatula. | Spatula flips 3 times in air, bounces off frying pan handle, lands standing upright on counter rack. |
-| **3** | Level 3 | **Basketball Full-Court Backward Toss** | Gym teacher tosses ball backward over shoulder while cleaning up. | Ball flies 94 feet across court, hits backboard, swishes through net clean. |
-| **2** | Level 4 | **Golf Ball Pool Bounce Hole-in-One** | Golfer hits severe slice into backyard swimming pool. | Ball skips across pool surface twice, ricochets off patio umbrella pole, rolls into cup on green. |
-| **1** | Level 5 | **Ping Pong Triple Ricochet Cup Swish** | Player hits wild smash off table; opponent dodges in panic. | Ball bounces off camera tripod, off ceiling light fixture, off water bottle, and lands inside red solo cup across the room. |
+| Rank | Level | Story Arc | Climax Action | Payoff / Reaction | Frames (Dur) |
+| :---: | :---: | :--- | :--- | :--- | :---: |
+| **5** | Level 1 | **Casual Bedroom Bottle Flip** | Careless casual water bottle toss onto carpet. | Bottle flips in mid-air and sticks the upright landing; subject freaks out running in disbelief. | 195 (6.5s) |
+| **4** | Level 2 | **APF Asian 9-Ball Open Fluke** | Pro player hits break shot, cue ball ricochets off 2 rails. | Double-rail carom hits 9-ball directly into corner pocket; player and referee laugh at the 1 in 10,000 fluke. | 225 (7.5s) |
+| **3** | Level 3 | **Tyler Herro Full-Court Bank Swish** | Tyler Herro launches an 80-foot outlet pass across the basketball court. | Pass hits the backboard and swishes straight through the hoop; Miami Heat bench erupts in pandemonium. | 225 (7.5s) |
+| **2** | Level 4 | **PGA Sungjae Im Water Hazard Double Skip** | Golfer hits severe slice heading straight into deep lake hazard. | Ball skips twice across the water surface like a flat stone and rolls safely onto the green near the pin. | 240 (8.0s) |
+| **1** | Level 5 | **Kristian Karlsson WTT Impossible Net Post Curve** | Desperation lunge in world championship table tennis rally. | Ball curves entirely around the outside of the net post and clips the table corner line; opponent freezes stunned as Karlsson apologizes in shock. | 240 (8.0s) |
 
 ---
 
 ## 6. QA Verification Gate
-- [ ] 0 black frames detected in 1fps contact sheet.
-- [ ] 0 third-party watermarks or channel repost logos.
-- [ ] Integrated Loudness: `-14.0 ± 1.0 LUFS`.
-- [ ] True Peak: `<= -1.5 dBTP`.
-- [ ] Contact sheet: `output/accidental_trickshots_qa_sheet.jpg` verified.
+- [x] 0 black frames detected in 1fps contact sheet.
+- [x] 0 third-party watermarks or channel repost logos.
+- [x] Integrated Loudness: `-14.0 ± 1.0 LUFS`.
+- [x] True Peak: `<= -1.5 dBTP`.
+- [x] Contact sheet: `output/accidental_trickshots_qa_sheet.jpg` verified.
 
 ---
 
@@ -87,10 +87,10 @@ A **"ACCIDENTAL TRICKSHOTS"** compilation hooks viewers with visceral retention 
 - **Hook Title:** `Ranking Accidental Trickshots That Defied Physics 🤯🎱 #shorts #viral #amazing`
 - **Description:**
   ```text
-Ranking the luckiest accidental trickshots in history! That 1 in a billion bounce at Level 5 is impossible! 🎱💥
+  Ranking the luckiest accidental trickshots in history! That 1 in a billion curve shot at Level 5 is genuinely impossible! 🎱💥
 
-All footages used in this video are not mine; full credit goes to the respective owners.
+  All footages used in this video are not mine; full credit goes to the respective owners.
 
-#shorts #viral #trickshot #luck #physics #impossible #clutch #satisfying #sports
+  #shorts #viral #trickshot #luck #physics #impossible #clutch #satisfying #sports #tabletennis #golf #nba
   ```
 - **Optimal Upload Window:** 19:00 – 21:30 IST / 09:30 – 12:00 EST.

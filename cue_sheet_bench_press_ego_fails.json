@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "BENCH PRESS EGO FAILS",
+  "versionTag": "(Bar Of Shame Edition)",
+  "globalAudioPath": "public/audio/stems/bench_press_ego_fails_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/bench_press_ego_fails/rank_5.mp4",
+      "durationInFrames": 223,
+      "subtitleText": "Level 1: 405lbs dump & slide catastrophe",
+      "punchlineText": "PLATES DUMPED",
+      "impactFrameOffset": 175
+    },
+    {
+      "videoPath": "clips/bench_press_ego_fails/rank_4.mp4",
+      "durationInFrames": 246,
+      "subtitleText": "Level 2: Solo 130kg PR pin with zero spotter",
+      "punchlineText": "CHEST PINNED",
+      "impactFrameOffset": 160
+    },
+    {
+      "videoPath": "clips/bench_press_ego_fails/rank_3.mp4",
+      "durationInFrames": 257,
+      "subtitleText": "Level 3: Safety bar gives way under massive load",
+      "punchlineText": "SAFETY COLLAPSE",
+      "impactFrameOffset": 120
+    },
+    {
+      "videoPath": "clips/bench_press_ego_fails/rank_2.mp4",
+      "durationInFrames": 241,
+      "subtitleText": "Level 4: Textbook 355lb Roll of Shame to lap",
+      "punchlineText": "ROLL OF SHAME",
+      "impactFrameOffset": 130
+    },
+    {
+      "videoPath": "clips/bench_press_ego_fails/rank_1.mp4",
+      "durationInFrames": 246,
+      "subtitleText": "Level 5: 8-Plate warmup collapse causes total panic",
+      "punchlineText": "EMERGENCY HEAVE",
+      "impactFrameOffset": 80
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}

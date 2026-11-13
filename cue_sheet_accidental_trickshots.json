@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "ACCIDENTAL TRICKSHOTS",
+  "versionTag": "(Zero Skill Pure Luck)",
+  "globalAudioPath": "public/audio/stems/accidental_trickshots_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/accidental_trickshots/rank_5.mp4",
+      "durationInFrames": 195,
+      "subtitleText": "Level 1: Casual room bottle flip sticks the impossible upright landing",
+      "punchlineText": "STICK THE LANDING",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/accidental_trickshots/rank_4.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 2: Wild tournament break caroms 9-ball off 2 rails into pocket",
+      "punchlineText": "9-BALL FLUKE",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/accidental_trickshots/rank_3.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 3: NBA outlet pass accidentally banks into net from 80 feet away",
+      "punchlineText": "FULL COURT SWISH",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/accidental_trickshots/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Sliced golf drive skips twice across water hazard onto green",
+      "punchlineText": "WATER SKIP SAVE",
+      "impactFrameOffset": 105
+    },
+    {
+      "videoPath": "clips/accidental_trickshots/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: World Championship curve shot around net post clips table edge",
+      "punchlineText": "DEFYING PHYSICS",
+      "impactFrameOffset": 90
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}

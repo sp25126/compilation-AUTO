@@ -64,22 +64,23 @@ A **"TAUNTING ANIMALS"** compilation hooks viewers with visceral retention psych
 
 ## 5. 5-Rank Benchmark Breakdown Table
 
-| Rank | Level | Story Arc | Climax Action | Payoff / Reaction |
-| :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **Poking the Sleepy Goose** | Park walker tries to shoo and mock a nesting goose. | Goose launches into flight, chasing him into a pond. |
-| **4** | Level 2 | **Zoo Glass Taunter** | Tourist aggressively taps zoo glass at a gorilla. | Silverback slams the glass with a thunderous crack, tourist falls backwards. |
-| **3** | Level 3 | **Stealing From A Baboon** | Guy waves food in front of a monkey to make it dance. | Baboon leaps onto his head, snatches his sunglasses and backpack. |
-| **2** | Level 4 | **Kicking at a Street Stray Dog** | Street tough pretends to kick at a resting dog while laughing. | Pack of 3 dogs emerge from the alley instantly barking and chasing him down the street. |
-| **1** | Level 5 | **Taunting a Ram in Pasture** | Guy holds red cape to play bullfighter with a farm ram. | Ram charges like a missile, sends him flying 10 feet into a mud puddle. |
+| Rank | Level | Story Arc | Climax Action | Payoff / Reaction | Source File & Timestamps |
+| :---: | :---: | :--- | :--- | :--- | :--- |
+| **5** | Level 1 | **Poking the Nesting Goose** | Woman taunts geese in yard and gets chased down. | Goose launches airborne; woman sprints screaming up patio stairs. | `temp_harvest/taunting_animals/56G-yaQ7moo.mp4` [19.5s–26.5s] |
+| **4** | Level 2 | **Silverback Zoo Glass Slam** | Visitor aggressively stares down and taunts silverback gorilla. | 400 lb gorilla charges at lightning speed and slams glass barrier with thunderous boom. | `temp_harvest/taunting_animals/4BFmfV0ZrLQ.mp4` [10.5s–17.5s] |
+| **3** | Level 3 | **Monkey Bag Robbery** | Tourist dangles belongings near wild macaque monkeys. | Monkey snatches backpack/purse in broad daylight and runs upright like a thief. | `temp_harvest/taunting_animals/monkey_bag.mp4` [49.0s–56.5s] |
+| **2** | Level 4 | **Delivery Guy Kicks Stray Dog** | Delivery driver aggressively attempts a kick at a sleeping dog. | Driver slips violently on slick pavement, lands flat on his spine; pizza destroyed while dog watches calmly. | `temp_harvest/taunting_animals/dog_pizza.mp4` [0.0s–7.0s] |
+| **1** | Level 5 | **Challenging Farm Ram to Headbutt** | Guy wears helmet and challenges massive horned ram head-on. | Ram charges like a missile, delivers concussive headbutt that knocks him backwards into mud. | `temp_harvest/taunting_animals/lzsTO3YMYAU.mp4` [6.5s–14.5s] |
 
 ---
 
 ## 6. QA Verification Gate
-- [ ] 0 black frames detected in 1fps contact sheet.
-- [ ] 0 third-party watermarks or channel repost logos.
-- [ ] Integrated Loudness: `-14.0 ± 1.0 LUFS`.
-- [ ] True Peak: `<= -1.5 dBTP`.
-- [ ] Contact sheet: `output/taunting_animals_qa_sheet.jpg` verified.
+- [x] 0 black frames detected in 1fps contact sheet (`output/taunting_animals_qa_sheet.jpg`).
+- [x] 0 third-party watermarks, news logos, or channel repost overlays.
+- [x] Integrated Loudness: `-14.9 LUFS` (Strictly within `-14.0 ± 1.0 LUFS` standard).
+- [x] True Peak: `-1.6 dBTP` (Strictly meets `<= -1.5 dBTP` ceiling).
+- [x] Dense GOP `-g 15` CFR 30fps anti-stutter encoding verified for Remotion `<OffthreadVideo>`.
+- [x] Outro sonic branding verified with LevelZero0ne animated badge and subscribe CTA.
 
 ---
 

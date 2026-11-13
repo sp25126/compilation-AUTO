@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "Left Hanging In Public",
+  "versionTag": "(Secondhand Cringe)",
+  "globalAudioPath": "public/audio/stems/left_hanging_public_music_bed.mp3",
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/left_hanging_public/rank_5.mp4",
+      "durationInFrames": 195,
+      "subtitleText": "Level 1: Arcade patron holds high five up for an eternity while getting completely ignored"
+    },
+    {
+      "videoPath": "clips/left_hanging_public/rank_4.mp4",
+      "durationInFrames": 180,
+      "subtitleText": "Level 2: Teammate leaps away so he smoothly saves it by clapping his own hands"
+    },
+    {
+      "videoPath": "clips/left_hanging_public/rank_3.mp4",
+      "durationInFrames": 195,
+      "subtitleText": "Level 3: Kobe walks right past Phil Jackson leaving the legendary coach scratching his ear"
+    },
+    {
+      "videoPath": "clips/left_hanging_public/rank_2.mp4",
+      "durationInFrames": 196,
+      "subtitleText": "Level 4: Polish First Lady walks straight past Trump's extended hand to shake Melania's"
+    },
+    {
+      "videoPath": "clips/left_hanging_public/rank_1.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 5: Ryan Seacrest goes for a high five with a blind contestant on live national television"
+    }
+  ]
+}
