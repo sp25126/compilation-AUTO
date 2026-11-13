@@ -1,0 +1,35 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "LOVE AT FIRST SIGHT",
+  "versionTag": "(Destiny Sparks)",
+  "globalAudioPath": "public/audio/stems/love_at_first_sight_caught_music_bed.mp3",
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/love_at_first_sight_caught/rank_5.mp4",
+      "durationInFrames": 128,
+      "subtitleText": "Level 1: Strangers lock eyes in silence and break into shy, bashful smiles"
+    },
+    {
+      "videoPath": "clips/love_at_first_sight_caught/rank_4.mp4",
+      "durationInFrames": 150,
+      "subtitleText": "Level 2: The romantic tension peaks as she covers her mouth in pure giggles"
+    },
+    {
+      "videoPath": "clips/love_at_first_sight_caught/rank_3.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 3: Deep unbroken eye contact turns into radiant, glowing smiles"
+    },
+    {
+      "videoPath": "clips/love_at_first_sight_caught/rank_2.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 4: He leans in closer as she bites her lip with undeniable chemistry"
+    },
+    {
+      "videoPath": "clips/love_at_first_sight_caught/rank_1.mp4",
+      "durationInFrames": 141,
+      "subtitleText": "Level 5: The final bell rings and they collapse into an authentic, warm embrace"
+    }
+  ]
+}

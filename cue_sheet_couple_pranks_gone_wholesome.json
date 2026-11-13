@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "WHOLESOME COUPLE PRANKS",
+  "versionTag": "(Pure Love & Laughter)",
+  "globalAudioPath": "public/audio/stems/couple_pranks_gone_wholesome_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/couple_pranks_gone_wholesome/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Wife tells husband to hold hand like a toddler in store",
+      "punchlineText": "HOLD MY HAND BUDDY",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/couple_pranks_gone_wholesome/rank_4.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 2: Sneaky boyfriend steals ice cream bite then gets lovingly fed",
+      "punchlineText": "ICE CREAM BITE",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/couple_pranks_gone_wholesome/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Guy falls asleep on shoulder and sparks sweet subway smile",
+      "punchlineText": "SWEET SHOULDER NAP",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/couple_pranks_gone_wholesome/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Elderly couple water bottle penny splash erupts in joy",
+      "punchlineText": "CONTAGIOUS LAUGHTER",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/couple_pranks_gone_wholesome/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Fake photo posing turns into emotional surprise proposal",
+      "punchlineText": "SURPRISE PROPOSAL",
+      "impactFrameOffset": 90
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}

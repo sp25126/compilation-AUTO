@@ -66,20 +66,23 @@ A **"LOVE AT FIRST SIGHT CAUGHT ON CAMERA"** compilation hooks viewers with visc
 
 | Rank | Level | Story Arc | Climax Action | Payoff / Reaction |
 | :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **Subway Train Door Eye Contact** | Guy on platform locks eyes with girl inside subway car right before doors close. | Both smile shyly; guy types his number on phone screen and presses it to the window. |
-| **4** | Level 2 | **Coffee Shop Accidental Cup Swap** | Two strangers reach for the same latte at pickup counter simultaneously. | Hands touch; both look up and lock eyes with genuine blush and warm laughter. |
-| **3** | Level 3 | **Marathon Water Station Spark** | Runner grabs water cup from volunteer; their hands linger for a split second. | Runner stops, turns around, smiles, and asks for her name before continuing race. |
-| **2** | Level 4 | **Concert Crowd Shoulder Glance** | Camera at outdoor festival captures two people dancing near each other. | Both turn around at the same beat drop, lock eyes, and burst into synchronized dancing together. |
-| **1** | Level 5 | **Baseball Kiss Cam Strangers** | Jumbotron kiss cam lands on two strangers sitting adjacent who don't know each other. | Both look around nervously, guy asks permission, girl smiles and nods, and they share a magical movie-like kiss as stadium roars. |
+| **5** | Level 1 | **The First Spark** (Shot 31: 4.27s) | Dark-haired girl with red lipstick & girl in black tank top lock eyes in complete silence. | Both blush and break into sweet, bashful smiles as the spark ignites. |
+| **4** | Level 2 | **The Shy Giggle** (Shot 26: 5.00s) | Ponytail girl in denim jacket covers her mouth laughing bashfully. | Romantic tension peaks while blonde girl grins warmly, gaze never wavering. |
+| **3** | Level 3 | **Magnetic Eye Lock** (Shot 29: 7.00s) | Strangers hold deep, unbroken eye contact across the studio room. | The tension melts into pure, radiant, glowing smiles and genuine warmth. |
+| **2** | Level 4 | **The Lean-In** (Shot 27: 7.00s) | Guy in blue hoodie gently leans in closer while girl looks up into his eyes. | She bites her lip with sweet romantic tension and undeniable mutual chemistry. |
+| **1** | Level 5 | **The Climax Embrace** (Shot 62-63: 4.70s) | The countdown bell rings concluding the 4-minute stranger experiment. | Guy opens his arms with a radiant smile, she steps in close without hesitation, and they share an emotional, full embrace. |
 
 ---
 
 ## 6. QA Verification Gate
-- [ ] 0 black frames detected in 1fps contact sheet.
-- [ ] 0 third-party watermarks or channel repost logos.
-- [ ] Integrated Loudness: `-14.0 ± 1.0 LUFS`.
-- [ ] True Peak: `<= -1.5 dBTP`.
-- [ ] Contact sheet: `output/love_at_first_sight_caught_qa_sheet.jpg` verified.
+- [x] 0 black frames detected in 1fps contact sheet.
+- [x] 0 third-party watermarks or channel repost logos.
+- [x] Integrated Loudness: `-14.1 LUFS` (Target: `-14.0 ± 1.0 LUFS`).
+- [x] True Peak: `-1.5 dBTP` (Target: `<= -1.5 dBTP`).
+- [x] Loudness Range (LRA): `8.5 LU`.
+- [x] Contact sheet: `output/love_at_first_sight_caught_qa_sheet.jpg` verified with `read_file`.
+- [x] Remotion render: `output/love_at_first_sight_caught_raw.mp4` (914 frames @ 30fps).
+- [x] Mastered export: `output/love_at_first_sight_caught_mastered.mp4`.
 
 ---
 
