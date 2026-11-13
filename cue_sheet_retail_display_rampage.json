@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Retail Display Collapses",
+  "versionTag": "(Aisle 4 Version)",
+  "globalAudioPath": "public/audio/stems/retail_display_rampage_music_bed.mp3",
+  "musicVolume": 0.11,
+  "clips": [
+    {
+      "videoPath": "clips/retail_display_rampage/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Unstable liquor shelf wobbles and sends wine bottles crashing down",
+      "punchlineText": "SHELF SLIP",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/retail_display_rampage/rank_4.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 2: Curious toddler tips heavy showcase pedestal into glass shatters",
+      "punchlineText": "TODDLER TOPPLE",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/retail_display_rampage/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Clumsy shopper knocks curved TV line triggering a $7000 domino fall",
+      "punchlineText": "4-TV DOMINO",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/retail_display_rampage/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Customer pulls one single bottom bottle and triggers full pyramid drop",
+      "punchlineText": "JENGA FAILS",
+      "impactFrameOffset": 95
+    },
+    {
+      "videoPath": "clips/retail_display_rampage/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Massive supermarket honey jar pyramid unleashes an apocalyptic cascade",
+      "punchlineText": "HONEY APOCALYPSE",
+      "impactFrameOffset": 100
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
