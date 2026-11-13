@@ -1,0 +1,47 @@
+{
+  "titleHeader": "Ranking The Best",
+  "subjectHeader": "Luxury Flexes Fails",
+  "versionTag": "(Expensive Mistakes)",
+  "globalAudioPath": "public/audio/stems/luxury_flexes_backfiring_music_bed.mp3",
+  "musicBedPath": "public/audio/stems/luxury_flexes_backfiring_music_bed.mp3",
+  "musicVolume": 0.11,
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/luxury_flexes_backfiring/rank_5.mp4",
+      "durationInFrames": 226,
+      "subtitleText": "Level 1: Champagne cork launches unexpectedly — soaks every party guest",
+      "punchlineText": "FLEX BACKFIRED",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/luxury_flexes_backfiring/rank_4.mp4",
+      "durationInFrames": 270,
+      "subtitleText": "Level 2: Champion saber attempt shatters the entire neck off a $200 bottle",
+      "punchlineText": "AURA SHATTERED",
+      "impactFrameOffset": 120
+    },
+    {
+      "videoPath": "clips/luxury_flexes_backfiring/rank_3.mp4",
+      "durationInFrames": 271,
+      "subtitleText": "Level 3: Giant magnum champagne slips and obliterates the entire floor",
+      "punchlineText": "MONEY GONE",
+      "impactFrameOffset": 100
+    },
+    {
+      "videoPath": "clips/luxury_flexes_backfiring/rank_2.mp4",
+      "durationInFrames": 302,
+      "subtitleText": "Level 4: Nissan GT-R R35 revving at car show ignites into actual fire",
+      "punchlineText": "SUPERCAR COOKED",
+      "impactFrameOffset": 140
+    },
+    {
+      "videoPath": "clips/luxury_flexes_backfiring/rank_1.mp4",
+      "durationInFrames": 270,
+      "subtitleText": "Level 5: Entire luxury wine cellar wall collapses — $500K in bottles destroyed",
+      "punchlineText": "MAXIMUM AURA DEBT",
+      "impactFrameOffset": 110
+    }
+  ]
+}
