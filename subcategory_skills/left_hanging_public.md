@@ -22,9 +22,9 @@ frame_rate: 30.0_cfr
 
 ## 1. Core Narrative & Edit Philosophy
 A **"LEFT HANGING IN PUBLIC"** compilation hooks viewers with visceral retention psychology:
-- **Buildup (`0` to `T_cause`, natural audio):** Raw ambient room/environment sound builds authenticity without voiceover clutter.
-- **The Climax (`T_cause`):** Person extends hand for high-five/fist bump with huge smile -> Other person looks away or ignores -> Person awkwardly covers by fixing hair or stretching.
-- **The Payoff / Reaction (`T_payoff`):** Clean emotional resolution (laughter, shock, relief, celebration).
+- **Buildup (`0` to `T_cause`, natural audio):** Raw ambient room/broadcast sound builds authenticity without voiceover clutter.
+- **The Climax (`T_cause`):** Person extends hand for high-five/fist bump with huge smile -> Other person looks away or ignores -> Hand stays frozen in mid-air.
+- **The Payoff / Reaction (`T_payoff`):** Painful awkward recovery (fixing hair, clapping own hands, scratching ear, or frantic grab) with 100% natural clip reactions.
 
 ---
 
@@ -49,7 +49,7 @@ A **"LEFT HANGING IN PUBLIC"** compilation hooks viewers with visceral retention
 - **Compositor Engine:** Remotion `<OffthreadVideo>` in `src/remotion/MrPurifiedWaterShort.tsx`.
 - **Pre-Processing Command:** Strict 30fps CFR re-encode with dense `-g 15` keyframe interval:
   ```bash
-  ffmpeg -y -i raw_input.mp4 -vf "setpts=PTS-STARTPTS,fps=30,scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2" -c:v libx264 -pix_fmt yuv420p -r 30 -g 15 -keyint_min 15 -sc_threshold 0 -c:a aac -ar 48000 -b:a 320k normalized_clip.mp4
+  ffmpeg -y -i raw_input.mp4 -vf "setpts=PTS-STARTPTS,fps=30,scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2" -c:v libx264 -pix_fmt yuv420p -r 30 -g 15 -keyint_min 15 -sc_threshold 0 -c:a aac -ar 48000 -b:a 192k normalized_clip.mp4
   ```
 
 ---
@@ -64,22 +64,23 @@ A **"LEFT HANGING IN PUBLIC"** compilation hooks viewers with visceral retention
 
 ## 5. 5-Rank Benchmark Breakdown Table
 
-| Rank | Level | Story Arc | Climax Action | Payoff / Reaction |
-| :---: | :---: | :--- | :--- | :--- |
-| **5** | Level 1 | **Sideline High-Five Ghost** | Fan in front row reaches out palm as NBA player walks by. | Player looks dead ahead, ignores hand; fan slowly turns hand into a wave. |
-| **4** | Level 2 | **Press Conference Fist Bump** | Journalist raises fist bump to coach after interview. | Coach looks at fist with confused grimace, grabs his microphone instead. |
-| **3** | Level 3 | **World Leaders Double Handshake Fail** | President extends open hand for photo op on world stage. | Other prime minister looks down, misses hand, turns away to wave at crowd. |
-| **2** | Level 4 | **Live TV Broadcast Handshake to Hug** | News anchor goes for handshake; co-host goes for hug. | Face collides into shoulder, hands flail awkwardly for 4 painful seconds on live air. |
-| **1** | Level 5 | **Award Ceremony Stage Walk-Off** | Celebrity walks onto Oscar/Grammy stage and offers high-five to presenter. | Presenter completely walks past him; celebrity awkwardly smooths hair and looks at floor. |
+| Rank | Level | Source ID | Cause / The Setup | Climax Action | Payoff / Recovery | Duration (Frames) | QA Status |
+| :---: | :---: | :--- | :--- | :--- | :--- | :---: | :---: |
+| **5** | Level 1 | `Ft41g48Kp-0` (Arcade high five) | Guy watching punching arcade game raises palm high | Friends punch bag and celebrate without looking at him | Hand stays frozen in mid-air for 15s; smiles into camera dying inside | `6.5s` (`195f`) | **PASS** (Zero watermarks, 1080x1920) |
+| **4** | Level 2 | `9WalqnrDu08` (Terry McLaurin NFL) | Receiver runs to endzone with open hand for handshake | Teammate #82 jumps right over him to celebrate with others | McLaurin smoothly claps his own hands and keeps running | `6.0s` (`180f`) | **PASS** (Zero watermarks, 1080x1920) |
+| **3** | Level 3 | `2CBVPTgyZjA` (Phil Jackson Kobe) | Legendary coach Phil Jackson extends hand as Kobe walks to bench | Kobe walks right past his outstretched hand without breaking stride | Phil Jackson slowly scratches ear in deadpan awkwardness | `6.5s` (`195f`) | **PASS** (Zero watermarks, 1080x1920) |
+| **2** | Level 4 | `PD03pcjKnMw` (Trump Polish Handshake) | President Trump finishes shaking Polish President's hand, reaches for First Lady | Polish First Lady walks completely past his outstretched hand | Trump stands frozen with hand in mid-air; First Lady greets Melania | `6.53s` (`196f`) | **PASS** (Zero watermarks, 1080x1920) |
+| **1** | Level 5 | `TSdw4MKaxxo` (Ryan Seacrest Blind Idol) | Contestant holding white walking cane exits audition room | Ryan Seacrest enthusiastically raises hand for high-five | Blind contestant stares blankly; Seacrest frantically grabs his hand | `7.0s` (`210f`) | **PASS** (Zero watermarks, 1080x1920) |
 
 ---
 
 ## 6. QA Verification Gate
-- [ ] 0 black frames detected in 1fps contact sheet.
-- [ ] 0 third-party watermarks or channel repost logos.
-- [ ] Integrated Loudness: `-14.0 ± 1.0 LUFS`.
-- [ ] True Peak: `<= -1.5 dBTP`.
-- [ ] Contact sheet: `output/left_hanging_public_qa_sheet.jpg` verified.
+- [x] 0 black frames detected in 1fps contact sheet (`output/left_hanging_public_qa_sheet.jpg`).
+- [x] 0 third-party watermarks or channel repost logos.
+- [x] Integrated Loudness: `-14.5 LUFS` (Target: `-14.0 ± 1.0 LUFS`).
+- [x] True Peak: `-1.7 dBFS` (Target: `<= -1.5 dBTP`).
+- [x] Loudness Range: `5.7 LU` (Target: `<= 11 LU`).
+- [x] Contact sheet: `output/left_hanging_public_qa_sheet.jpg` verified via visual QA.
 
 ---
 
@@ -87,10 +88,10 @@ A **"LEFT HANGING IN PUBLIC"** compilation hooks viewers with visceral retention
 - **Hook Title:** `Ranking The Worst Left Hanging Moments Ever 💀✋ #shorts #cringe #awkward`
 - **Description:**
   ```text
-Ranking people who got left hanging on live television! The second-hand embarrassment is off the charts! 💀✋
+  Ranking people who got left hanging on live camera! The secondhand embarrassment is off the charts 💀✋
 
-All footages used in this video are not mine; full credit goes to the respective owners.
+  All footages used in this video are not mine; full credit goes to the respective owners.
 
-#shorts #viral #lefthanging #awkward #cringe #funny #handshake #fails #instantregret
+  #shorts #viral #lefthanging #awkward #cringe #funny #handshake #fails #instantregret #secondhandembarrassment
   ```
-- **Optimal Upload Window:** 19:00 – 21:30 IST / 09:30 – 12:00 EST.
+- **Optimal Upload Window:** 20:00 IST / 10:30 EST.

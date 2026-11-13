@@ -1,0 +1,45 @@
+{
+  "titleHeader": "Ranking Best Of",
+  "subjectHeader": "LIGHTNING JUMP SCARES",
+  "versionTag": "(Headphones Warning)",
+  "globalAudioPath": "public/audio/stems/lightning_jump_scares_music_bed.mp3",
+  "clips": [
+    {
+      "videoPath": "clips/lightning_jump_scares/rank_5.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 1: Porch rain watching interrupted by 25ft tree lightning strike",
+      "punchlineText": "PORCH BLAST",
+      "impactFrameOffset": 169
+    },
+    {
+      "videoPath": "clips/lightning_jump_scares/rank_4.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 2: Driveway tree exploded by blinding orange lightning bolt",
+      "punchlineText": "DRIVEWAY HIT",
+      "impactFrameOffset": 129
+    },
+    {
+      "videoPath": "clips/lightning_jump_scares/rank_3.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 3: Lake dock purple thunderbolt strike inches from camera pier",
+      "punchlineText": "DOCK BLAST",
+      "impactFrameOffset": 141
+    },
+    {
+      "videoPath": "clips/lightning_jump_scares/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Hillside fence direct lightning strike knocks camera to ground",
+      "punchlineText": "HILLSIDE BOLT",
+      "impactFrameOffset": 202
+    },
+    {
+      "videoPath": "clips/lightning_jump_scares/rank_1.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 5: House window ground zero direct hit causes deafening scream",
+      "punchlineText": "WINDOW STRIKE",
+      "impactFrameOffset": 120
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
