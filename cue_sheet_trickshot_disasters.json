@@ -1,0 +1,47 @@
+{
+  "titleHeader": "Ranking The Worst",
+  "subjectHeader": "Trickshot Disasters",
+  "versionTag": "(Miss Version)",
+  "globalAudioPath": "public/audio/stems/trickshot_disasters_music_bed.mp3",
+  "musicBedPath": "public/audio/stems/trickshot_disasters_music_bed.mp3",
+  "musicVolume": 0.11,
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/trickshot_disasters/rank_5.mp4",
+      "durationInFrames": 270,
+      "subtitleText": "Level 1: Basketball halfcourt lob trick attempt sails wildly off-target",
+      "punchlineText": "TOTAL AIRBALL",
+      "impactFrameOffset": 160
+    },
+    {
+      "videoPath": "clips/trickshot_disasters/rank_4.mp4",
+      "durationInFrames": 211,
+      "subtitleText": "Level 2: Backyard basketball-into-pool trickshot sends guy flying face-first",
+      "punchlineText": "BELLY SPLASH",
+      "impactFrameOffset": 100
+    },
+    {
+      "videoPath": "clips/trickshot_disasters/rank_3.mp4",
+      "durationInFrames": 290,
+      "subtitleText": "Level 3: Billiards trick setup collapses - cue stick sends balls flying everywhere",
+      "punchlineText": "TABLE CHAOS",
+      "impactFrameOffset": 120
+    },
+    {
+      "videoPath": "clips/trickshot_disasters/rank_2.mp4",
+      "durationInFrames": 268,
+      "subtitleText": "Level 4: Golf trick shot backfires - ball explodes into powder cloud on swing",
+      "punchlineText": "PRANK DETONATED",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/trickshot_disasters/rank_1.mp4",
+      "durationInFrames": 255,
+      "subtitleText": "Level 5: Epic outdoor basketball trickshot attempt ends in spectacular miss and stumble",
+      "punchlineText": "CATASTROPHIC MISS",
+      "impactFrameOffset": 75
+    }
+  ]
+}
