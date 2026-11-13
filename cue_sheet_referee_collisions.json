@@ -1,0 +1,47 @@
+{
+  "titleHeader": "Ranking The Funniest",
+  "subjectHeader": "Referee Collisions",
+  "versionTag": "(Wrong Place Fails)",
+  "globalAudioPath": "public/audio/stems/referee_collisions_music_bed.mp3",
+  "musicBedPath": "public/audio/stems/referee_collisions_music_bed.mp3",
+  "musicVolume": 0.11,
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/referee_collisions/rank_5.mp4",
+      "durationInFrames": 226,
+      "subtitleText": "Level 1: Casemiro trips referee during slide tackle and helps him up laughing",
+      "punchlineText": "ACCIDENTAL TACKLE",
+      "impactFrameOffset": 60
+    },
+    {
+      "videoPath": "clips/referee_collisions/rank_4.mp4",
+      "durationInFrames": 257,
+      "subtitleText": "Level 2: NFL official wipes out colliding with Sean Payton and throws flag",
+      "punchlineText": "SIDELINE FLAG",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/referee_collisions/rank_3.mp4",
+      "durationInFrames": 256,
+      "subtitleText": "Level 3: Bundesliga ref bodychecked onto his backside, stadium gives ovation",
+      "punchlineText": "STADIUM OVATION",
+      "impactFrameOffset": 70
+    },
+    {
+      "videoPath": "clips/referee_collisions/rank_2.mp4",
+      "durationInFrames": 242,
+      "subtitleText": "Level 4: MLS referee caught in crossfire crushed between two sprinting players",
+      "punchlineText": "SANDWICH CRUSH",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/referee_collisions/rank_1.mp4",
+      "durationInFrames": 255,
+      "subtitleText": "Level 5: Referee gets tripped, kicks player in retaliation, then pulls red card",
+      "punchlineText": "REF RED CARD REVENGE",
+      "impactFrameOffset": 80
+    }
+  ]
+}
