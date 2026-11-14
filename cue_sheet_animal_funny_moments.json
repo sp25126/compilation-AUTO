@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Animal Funny Moments",
+  "versionTag": "(Wholesome Chaos)",
+  "globalAudioPath": "public/audio/stems/animal_funny_moments_music_bed.mp3",
+  "musicVolume": 0.11,
+  "clips": [
+    {
+      "videoPath": "clips/animal_funny_moments/rank_5.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 1: Tiny tortoise obsessively headbutting shoes in back garden",
+      "punchlineText": "SHOE HEADBUTT",
+      "impactFrameOffset": 70
+    },
+    {
+      "videoPath": "clips/animal_funny_moments/rank_4.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 2: Clumsy puppy doing headstand somersaults over couch cushions",
+      "punchlineText": "COUCH SOMERSAULT",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/animal_funny_moments/rank_3.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 3: Golden retriever gets stuck on buddy's back in living room brawl",
+      "punchlineText": "PIGGYBACK DERP",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/animal_funny_moments/rank_2.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 4: Excited spaniel wags fluffy tail right in flabbergasted cat's face",
+      "punchlineText": "TAIL SLAP SURPRISE",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/animal_funny_moments/rank_1.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 5: Peaceful loaf cat gets spooked by invisible greebles into orbit",
+      "punchlineText": "GREEBLE LAUNCH",
+      "impactFrameOffset": 85
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
