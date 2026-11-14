@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Pets In Slow Motion",
+  "versionTag": "(Dramatic Fails)",
+  "globalAudioPath": "public/audio/stems/pets_in_slow_motion_music_bed.mp3",
+  "musicVolume": 0.11,
+  "clips": [
+    {
+      "videoPath": "clips/pets_in_slow_motion/rank_5.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 1: Golden retriever leaps high in slow motion to catch ball",
+      "punchlineText": "AIRBORNE CATCH",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/pets_in_slow_motion/rank_4.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 2: Studio black lab chomps air as treat flies right over head",
+      "punchlineText": "TREAT WHIFF",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/pets_in_slow_motion/rank_3.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 3: Cat leaps for glass stair railing and comically slides down",
+      "punchlineText": "GLASS SLIDE FAIL",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/pets_in_slow_motion/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Wet basset hound shakes head creating 1000 FPS water vortex",
+      "punchlineText": "JOWL TORNADO",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/pets_in_slow_motion/rank_1.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 5: Fritz takes a direct donut smack to the snoot in epic slow mo",
+      "punchlineText": "DONUT SMACKDOWN",
+      "impactFrameOffset": 80
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
