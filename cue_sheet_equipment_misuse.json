@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Gym Equipment Misuse",
+  "versionTag": "(Wrong Exercises)",
+  "globalAudioPath": "public/audio/stems/equipment_misuse_music_bed.mp3",
+  "musicVolume": 0.11,
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/equipment_misuse/rank_5.mp4",
+      "durationInFrames": 227,
+      "subtitleText": "Level 1: Turning lat pulldown backwards into a bizarre sit-up machine",
+      "punchlineText": "BACKWARDS PULLDOWN",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/equipment_misuse/rank_4.mp4",
+      "durationInFrames": 226,
+      "subtitleText": "Level 2: Sitting backwards on indoor rowing machine confused out of mind",
+      "punchlineText": "REVERSE ROWER",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/equipment_misuse/rank_3.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 3: Inventing aerial core gymnastics on a chest press machine",
+      "punchlineText": "AERIAL CHEST PRESS",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/equipment_misuse/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Full suspension backflip dismount off cable crossover station",
+      "punchlineText": "CABLE ACROBATICS",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/equipment_misuse/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Treating rotary torso machine like an untamed mechanical bull",
+      "punchlineText": "GYM BULL RODEO",
+      "impactFrameOffset": 100
+    }
+  ]
+}
