@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking The Funniest",
+  "subjectHeader": "Broken Pathfinding NPCs",
+  "versionTag": "(AI Navigation Fails)",
+  "globalAudioPath": "public/audio/stems/pathfinding_ai_broken_music_bed.mp3",
+  "musicVolume": 0.11,
+  "clips": [
+    {
+      "videoPath": "clips/pathfinding_ai_broken/rank_5.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 1: Pedestrian misjudges open terrace and walks directly into clean glass window",
+      "punchlineText": "GLASS DOOR BONK",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/pathfinding_ai_broken/rank_4.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 2: Pedestrian distracted arguing while walking dog walks straight into streetlight pole",
+      "punchlineText": "POLE SMACK REBOUND",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/pathfinding_ai_broken/rank_3.mp4",
+      "durationInFrames": 226,
+      "subtitleText": "Level 3: Shopper tries to navigate up the downward escalator, stuck in infinite walking loop",
+      "punchlineText": "INFINITE STAIR LOOP",
+      "impactFrameOffset": 70
+    },
+    {
+      "videoPath": "clips/pathfinding_ai_broken/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Customer puts on new sunglasses and confidently walks straight into store glass wall",
+      "punchlineText": "SUNGLASSES FLYING",
+      "impactFrameOffset": 110
+    },
+    {
+      "videoPath": "clips/pathfinding_ai_broken/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Shopper full sprint pathfinding error completely obliterates tempered glass entrance",
+      "punchlineText": "GLASS OBLITERATED",
+      "impactFrameOffset": 60
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
