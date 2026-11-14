@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Distracted Spotter Moments",
+  "versionTag": "(Wrong Time to Look)",
+  "globalAudioPath": "public/audio/stems/spotter_distracted_music_bed.mp3",
+  "musicVolume": 0.11,
+  "clips": [
+    {
+      "videoPath": "clips/spotter_distracted/rank_5.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 1: Spotter caught admiring the mirror during bench press",
+      "punchlineText": "MIRROR CHECK FAIL",
+      "impactFrameOffset": 80
+    },
+    {
+      "videoPath": "clips/spotter_distracted/rank_4.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 2: Spotter turns completely around while lifter struggles",
+      "punchlineText": "LOOKING AWAY",
+      "impactFrameOffset": 85
+    },
+    {
+      "videoPath": "clips/spotter_distracted/rank_3.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 3: Spotter trips and falls directly into the bench",
+      "punchlineText": "TRIP & COLLAPSE",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/spotter_distracted/rank_2.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 4: Spotter lets go of bar to laugh as lifter gets trapped",
+      "punchlineText": "LAUGHING SPOTTER",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/spotter_distracted/rank_1.mp4",
+      "durationInFrames": 240,
+      "subtitleText": "Level 5: Spotter walks off mid-set leaving lifter pinned on bench",
+      "punchlineText": "WALKED AWAY",
+      "impactFrameOffset": 95
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
