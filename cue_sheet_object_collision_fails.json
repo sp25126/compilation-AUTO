@@ -7,38 +7,38 @@
   "clips": [
     {
       "videoPath": "clips/object_collision_fails/rank_5.mp4",
-      "durationInFrames": 150,
+      "durationInFrames": 210,
       "subtitleText": "Level 1: Pedestrian casually walks directly into transparent glass doorway",
       "punchlineText": "INVISIBLE HITBOX",
-      "impactFrameOffset": 90
-    },
-    {
-      "videoPath": "clips/object_collision_fails/rank_4.mp4",
-      "durationInFrames": 150,
-      "subtitleText": "Level 2: Pedestrian scrolling on smartphone collides head-first into glass barrier",
-      "punchlineText": "UNRENDERED BARRIER",
-      "impactFrameOffset": 105
-    },
-    {
-      "videoPath": "clips/object_collision_fails/rank_3.mp4",
-      "durationInFrames": 150,
-      "subtitleText": "Level 3: Full collision mesh fails to register as shopper faceplants store window",
-      "punchlineText": "COLLISION FAILED",
-      "impactFrameOffset": 75
-    },
-    {
-      "videoPath": "clips/object_collision_fails/rank_2.mp4",
-      "durationInFrames": 167,
-      "subtitleText": "Level 4: Infinite loop glitch repeats as shopper walks into glass wall 3 times",
-      "punchlineText": "PATHFINDING LOOP",
       "impactFrameOffset": 93
     },
     {
+      "videoPath": "clips/object_collision_fails/rank_4.mp4",
+      "durationInFrames": 165,
+      "subtitleText": "Level 2: Pedestrian scrolling on smartphone collides head-first into glass barrier",
+      "punchlineText": "UNRENDERED BARRIER",
+      "impactFrameOffset": 33
+    },
+    {
+      "videoPath": "clips/object_collision_fails/rank_3.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 3: Full collision mesh fails to register as shopper faceplants store window",
+      "punchlineText": "COLLISION FAILED",
+      "impactFrameOffset": 78
+    },
+    {
+      "videoPath": "clips/object_collision_fails/rank_2.mp4",
+      "durationInFrames": 242,
+      "subtitleText": "Level 4: Infinite loop glitch repeats as shopper walks into glass wall repeatedly",
+      "punchlineText": "PATHFINDING LOOP",
+      "impactFrameOffset": 55
+    },
+    {
       "videoPath": "clips/object_collision_fails/rank_1.mp4",
-      "durationInFrames": 167,
+      "durationInFrames": 227,
       "subtitleText": "Level 5: Full sprint into sliding glass door completely breaks physics engine",
       "punchlineText": "PHYSICS ENGINE BROKEN",
-      "impactFrameOffset": 102
+      "impactFrameOffset": 130
     }
   ],
   "showSubtitles": false,
