@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking Funniest",
+  "subjectHeader": "Animals Becoming Scarier",
+  "versionTag": "(Boss Fight Pets)",
+  "globalAudioPath": "public/audio/stems/animals_becoming_scarier_music_bed.mp3",
+  "musicVolume": 0.11,
+  "clips": [
+    {
+      "videoPath": "clips/animals_becoming_scarier/rank_5.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 1: Harmless desert rain frog activates high-pitched battle roar",
+      "punchlineText": "TINY ANGRY ROAR",
+      "impactFrameOffset": 60
+    },
+    {
+      "videoPath": "clips/animals_becoming_scarier/rank_4.mp4",
+      "durationInFrames": 216,
+      "subtitleText": "Level 2: Relaxed tuxedo cat suddenly switches into sideways crab goblin mode",
+      "punchlineText": "GOBLIN CRAB WALK",
+      "impactFrameOffset": 70
+    },
+    {
+      "videoPath": "clips/animals_becoming_scarier/rank_3.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 3: Peaceful owl snaps head 180 degrees with unblinking death stare",
+      "punchlineText": "180° DEATH STARE",
+      "impactFrameOffset": 35
+    },
+    {
+      "videoPath": "clips/animals_becoming_scarier/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Green parrot stalks down hallway cackling like movie supervillain",
+      "punchlineText": "SUPERVILLAIN LAUGH",
+      "impactFrameOffset": 75
+    },
+    {
+      "videoPath": "clips/animals_becoming_scarier/rank_1.mp4",
+      "durationInFrames": 245,
+      "subtitleText": "Level 5: Innocent lap dog gets caught on camera and summons final boss mode",
+      "punchlineText": "FINAL BOSS SUMMONED",
+      "impactFrameOffset": 90
+    }
+  ],
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false
+}
