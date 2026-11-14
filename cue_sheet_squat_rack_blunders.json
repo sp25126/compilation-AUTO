@@ -1,0 +1,46 @@
+{
+  "titleHeader": "Ranking The Best",
+  "subjectHeader": "Squat Rack Blunders",
+  "versionTag": "(Bail Fails)",
+  "globalAudioPath": "public/audio/stems/squat_rack_blunders_music_bed.mp3",
+  "musicVolume": 0.11,
+  "showSubtitles": false,
+  "enableLogoPopupDemo": false,
+  "clips": [
+    {
+      "videoPath": "clips/squat_rack_blunders/rank_5.mp4",
+      "durationInFrames": 195,
+      "subtitleText": "Level 1: Textbook bail dumping the loaded barbell backwards safely onto the platform",
+      "punchlineText": "TEXTBOOK BAIL",
+      "impactFrameOffset": 90
+    },
+    {
+      "videoPath": "clips/squat_rack_blunders/rank_4.mp4",
+      "durationInFrames": 195,
+      "subtitleText": "Level 2: Lifter gets stuck in the hole and smoothly slides under the safety pins",
+      "punchlineText": "SAFETY PIN SAVE",
+      "impactFrameOffset": 105
+    },
+    {
+      "videoPath": "clips/squat_rack_blunders/rank_3.mp4",
+      "durationInFrames": 210,
+      "subtitleText": "Level 3: Powerlifter misjudges re-rack height and dumps the bar clattering onto the hooks",
+      "punchlineText": "HOOK RE-RACK MISS",
+      "impactFrameOffset": 110
+    },
+    {
+      "videoPath": "clips/squat_rack_blunders/rank_2.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 4: Heavy 585lb squat bail where the lifter calmly dumps the bar and walks away",
+      "punchlineText": "585 LB WALK AWAY",
+      "impactFrameOffset": 135
+    },
+    {
+      "videoPath": "clips/squat_rack_blunders/rank_1.mp4",
+      "durationInFrames": 225,
+      "subtitleText": "Level 5: 190kg re-rack push tips over entire freestanding squat rack forward",
+      "punchlineText": "ENTIRE RACK TIPPED",
+      "impactFrameOffset": 135
+    }
+  ]
+}
